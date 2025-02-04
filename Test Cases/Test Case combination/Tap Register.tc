@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user will navigate to register page</description>
+   <name>Tap Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48dc3cd3-b242-4e7b-bb1d-33d59aa7537a</testCaseGuid>
+</TestCaseEntity>

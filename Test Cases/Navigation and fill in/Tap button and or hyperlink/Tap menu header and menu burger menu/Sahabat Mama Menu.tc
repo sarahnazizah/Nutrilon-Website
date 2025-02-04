@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sahabat Mama menu</description>
+   <name>Sahabat Mama Menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d0131df-a4ba-4f19-8d88-16a9e5bd0751</testCaseGuid>
+</TestCaseEntity>

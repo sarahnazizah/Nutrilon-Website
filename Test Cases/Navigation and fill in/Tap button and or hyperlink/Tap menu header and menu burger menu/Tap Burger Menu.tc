@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The burger menu will opened</description>
+   <name>Tap Burger Menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1aa819c7-b92a-46fc-82b9-fe92b3ae225d</testCaseGuid>
+</TestCaseEntity>

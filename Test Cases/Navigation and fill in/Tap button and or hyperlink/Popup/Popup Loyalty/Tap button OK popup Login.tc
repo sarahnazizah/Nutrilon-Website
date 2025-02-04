@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tap button OK popup Login</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff373fc6-2691-40b2-9ee1-79ab0feb8c2d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User able to Login via header</description>
+   <name>Login Via Header</name>
+   <tag>Functionality_Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78772450-f1f3-4f04-9e94-89f8f8b93641</testCaseGuid>
+</TestCaseEntity>

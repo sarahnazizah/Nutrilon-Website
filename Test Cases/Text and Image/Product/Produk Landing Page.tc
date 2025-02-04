@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify UI and Navigation on Produk landing page</description>
+   <name>Produk Landing Page</name>
+   <tag>View and Navigation only</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6451224-4690-4435-a72d-65d2d74b932e</testCaseGuid>
+</TestCaseEntity>
