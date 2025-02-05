@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setEncryptedText(findTestObject('Page_Login/Input field Kata Sandi'), '8SQVv/p9jVScEs4/2CZsLw==')
+WebUI.setEncryptedText(findTestObject('Page_Login/Input field Kata Sandi'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
