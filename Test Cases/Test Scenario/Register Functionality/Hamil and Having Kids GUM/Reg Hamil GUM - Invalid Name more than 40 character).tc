@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil GUM - Invalid Name more than 40 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5bc54e0-1cc1-41ce-9c87-21da4f53d770</testCaseGuid>
+</TestCaseEntity>

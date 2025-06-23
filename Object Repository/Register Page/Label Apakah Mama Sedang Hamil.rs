@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label Apakah Mama Sedang Hamil</name>
+   <tag></tag>
+   <elementGuidId>ea567c14-d85c-4c48-8f89-8cbfc2288ccc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.content-label.center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div[3]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>47dcff7b-ae3f-4e54-a6ac-c1b149c4f493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>fullname</value>
+      <webElementGuid>584a7d70-9836-49f6-a9f7-dfaa98aa59b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-label center</value>
+      <webElementGuid>f454e5e8-0449-431e-8d93-0cc484c954c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apakah Mama Sedang Hamil?</value>
+      <webElementGuid>fe3d0fb0-2a57-4718-bd1b-ba1f88a45576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;content__input&quot;]/div[@class=&quot;content__input-wrapper&quot;]/label[@class=&quot;content-label center&quot;]</value>
+      <webElementGuid>06e88a95-af04-4ef7-8e5c-fb8af3bb3d2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div[3]/div/div/label</value>
+      <webElementGuid>d39c6269-3896-48c6-9e66-d49b781a05b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minggu Kehamilan Mama'])[1]/preceding::label[2]</value>
+      <webElementGuid>0a348abf-36ce-4372-9c46-654637726573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Mama Punya Anak?'])[1]/preceding::label[3]</value>
+      <webElementGuid>d6aebd22-f979-4cc2-9611-101b8bae4d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apakah Mama Sedang Hamil?']/parent::*</value>
+      <webElementGuid>05084ce8-5a4b-4abb-a53d-e63eb18d5985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/label</value>
+      <webElementGuid>8fdccd10-1e42-4a32-938a-9beeb2576688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Apakah Mama Sedang Hamil?' or . = 'Apakah Mama Sedang Hamil?')]</value>
+      <webElementGuid>0e5b9d3e-3fb9-425b-8ee5-bc21821be646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

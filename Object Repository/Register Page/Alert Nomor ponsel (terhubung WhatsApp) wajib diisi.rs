@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Nomor ponsel (terhubung WhatsApp) wajib diisi</name>
+   <tag></tag>
+   <elementGuidId>2db3a06f-8828-4946-8e11-3e2fbd592a11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d2de55c-72af-474b-8d68-113be8d84dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>2ce84ad9-0579-443a-8e26-534d727cc4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor ponsel (terhubung WhatsApp) wajib diisi</value>
+      <webElementGuid>315ba98e-0913-456f-b70b-f089ac60974b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content&quot;]/div[@class=&quot;content__input&quot;]/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>84a3004e-9b1e-4907-9f20-a152abdec524</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div/div[2]/span</value>
+      <webElementGuid>9729e7e0-8bd1-42de-8dea-409569774560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone Mama'])[1]/following::span[1]</value>
+      <webElementGuid>ed5d8aa5-bc7d-458a-8776-926717ed5269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama lengkap wajib diisi'])[1]/following::span[1]</value>
+      <webElementGuid>35be2e3c-96ef-489b-aa09-9b6848c1d90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::span[1]</value>
+      <webElementGuid>47023886-f444-41f0-9823-8bd85d87c672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ikuti pengisian password sesuai ketentuan di bawah ini'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c6b265a-5850-4a0a-868e-6e9896c886ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nomor ponsel (terhubung WhatsApp) wajib diisi']/parent::*</value>
+      <webElementGuid>305ab475-3b22-495c-9458-41a2a17f9ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>a6acb9b3-0ab1-46bd-9201-f74e59554fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nomor ponsel (terhubung WhatsApp) wajib diisi' or . = 'Nomor ponsel (terhubung WhatsApp) wajib diisi')]</value>
+      <webElementGuid>2b7231a6-016c-4aac-80bc-0ef3537ee948</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

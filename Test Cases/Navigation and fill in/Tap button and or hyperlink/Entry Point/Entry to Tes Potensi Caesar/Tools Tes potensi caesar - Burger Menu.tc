@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigation to tools menu</description>
+   <name>Tools Tes potensi caesar - Burger Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a31bdadd-0696-4a1f-91f7-41fc6683a8af</testCaseGuid>
+</TestCaseEntity>

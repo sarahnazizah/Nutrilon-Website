@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Detail Artikel Section Verify</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11b3fa0c-1b2f-43ec-8a31-3b2a6d5260f0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68ffe33a-48b2-44cf-a931-16e486be4fc5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68ffe33a-48b2-44cf-a931-16e486be4fc5</id>
+      <masked>false</masked>
+      <name>pageUrl</name>
+   </variable>
+</TestCaseEntity>

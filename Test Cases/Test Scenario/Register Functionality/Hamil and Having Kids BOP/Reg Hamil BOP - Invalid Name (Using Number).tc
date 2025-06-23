@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil BOP - Invalid Name (Using Number)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>691b0727-d43f-49b5-a4f2-14a8f93c888c</testCaseGuid>
+</TestCaseEntity>

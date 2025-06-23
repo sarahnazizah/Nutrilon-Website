@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert if empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dce30a5-d8fb-43d2-b0dd-afcc901ce085</testCaseGuid>
+</TestCaseEntity>

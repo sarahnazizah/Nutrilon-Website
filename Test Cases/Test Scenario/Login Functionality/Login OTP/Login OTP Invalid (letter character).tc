@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login OTP Invalid (letter character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cfef7e5-fd20-47e8-8eb7-c8e165f73685</testCaseGuid>
+</TestCaseEntity>

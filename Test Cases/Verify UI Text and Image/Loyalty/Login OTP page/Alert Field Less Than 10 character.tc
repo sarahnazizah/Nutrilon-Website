@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert Field Less Than 10 character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e68ed5c1-7a20-40ac-bfa2-8949b6f4fc99</testCaseGuid>
+</TestCaseEntity>

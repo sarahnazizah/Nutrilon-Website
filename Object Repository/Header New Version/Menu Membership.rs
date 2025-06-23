@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Membership</name>
+   <tag></tag>
+   <elementGuidId>44d3ce0e-0c00-4e9e-9e7c-36112ccf8301</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='navbarNav']/div/ul/div[3]/li[2]/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a271c43-86db-4164-a968-be73ff166aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link header__caption</value>
+      <webElementGuid>a16b7f3e-b279-49a0-ae9f-1f832bd73506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Membership</value>
+      <webElementGuid>12f550b8-bf23-41eb-9626-463566e90d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/membership</value>
+      <webElementGuid>fc70ea9a-38e8-4b73-b8be-0f522341533b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Membership </value>
+      <webElementGuid>8de4afae-4aa6-4aa1-9886-9940a7409f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@class=&quot;container header header-result d-block&quot;]/div[@class=&quot;container header header-form p-0&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col col-lg-9 p-0&quot;]/ul[@class=&quot;navbar-nav mobile header__tool text-center mobile-hamburger&quot;]/div[@class=&quot;navbar-nav__menu&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link header__caption&quot;]</value>
+      <webElementGuid>bbe469b6-fb26-448e-acc1-4a9d2c099f21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='navbarNav']/div/ul/div[3]/li[2]/a)[2]</value>
+      <webElementGuid>5f7ae186-14da-4aad-8eb2-52852959136a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Membership')])[2]</value>
+      <webElementGuid>037daf40-1b4b-466a-acd0-582eb6c3268c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[2]/following::a[1]</value>
+      <webElementGuid>db13dfd1-be51-4227-bde2-d0aeaa8b9bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[2]/following::a[3]</value>
+      <webElementGuid>9bb39bb0-795f-46f7-bbbb-88055183557d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::a[1]</value>
+      <webElementGuid>f1e5c078-6d6a-48a6-8130-05256e942bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::a[2]</value>
+      <webElementGuid>35eefe4d-e1b7-4639-a001-964edc72b11a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/membership')])[5]</value>
+      <webElementGuid>d6df1cea-3980-4153-b08a-5ec9931822e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/div[3]/li[2]/a</value>
+      <webElementGuid>b598e068-6580-4447-a93c-1e83f23cd0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/membership' and (text() = '
+                                        Membership ' or . = '
+                                        Membership ')]</value>
+      <webElementGuid>6d7a956c-adaa-49b2-bf0d-a698f945a49d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill in unregistered user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a97d4022-0ca1-4b5e-aff7-e8fee4e578f6</testCaseGuid>
+</TestCaseEntity>

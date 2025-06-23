@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload Struk Header</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ecd5b938-eac4-4fae-8158-687d3af16b92</testCaseGuid>
+</TestCaseEntity>

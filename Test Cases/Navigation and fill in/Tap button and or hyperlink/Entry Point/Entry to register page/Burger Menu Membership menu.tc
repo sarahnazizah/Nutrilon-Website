@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membership Menu</description>
+   <name>Burger Menu Membership menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f505cfdd-4388-4f12-8c54-b54ce61fc97a</testCaseGuid>
+</TestCaseEntity>

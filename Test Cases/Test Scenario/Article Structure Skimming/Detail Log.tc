@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Detail Log</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b0f5847-d11b-4554-9589-79fffac5f019</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>505c410b-0c6e-4d88-a207-5ef759fa95a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>505c410b-0c6e-4d88-a207-5ef759fa95a2</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

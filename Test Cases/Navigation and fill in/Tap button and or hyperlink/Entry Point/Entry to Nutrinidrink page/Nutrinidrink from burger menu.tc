@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nutrinidrink from burger menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96e0afd8-432c-4898-92ce-2ea4bbaa7beb</testCaseGuid>
+</TestCaseEntity>

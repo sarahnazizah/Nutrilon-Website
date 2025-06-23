@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration Pregnancy Condition by tap header</description>
+   <name>Reg BOP - Invalid Referall</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d243e002-e79e-4fd0-a1fb-7ab2d3bbb90b</testCaseGuid>
+</TestCaseEntity>

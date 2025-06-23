@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Nomor Handphone belum diisi</name>
+   <tag></tag>
+   <elementGuidId>9d740c94-ee24-4d98-b7b0-f70f605dc3a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='warning-phone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#warning-phone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4328673-2966-4c4a-8f68-5d94e09431ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-8 offset-md-2 warning-phone show</value>
+      <webElementGuid>e3c2c348-25ad-48c4-8f82-8822c925c7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>warning-phone</value>
+      <webElementGuid>25fbb3fc-90f4-4731-8c92-54a606f4d9f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Handphone belum diisi</value>
+      <webElementGuid>243d3c50-c722-4db7-a265-1370ba59e69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;warning-phone&quot;)</value>
+      <webElementGuid>7e570fdc-81b8-4e7a-9fdf-26afdbd758be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='warning-phone']</value>
+      <webElementGuid>04413f65-4c54-40a3-bb9e-89e1fd4fd3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>8dd791ac-0f30-4494-a730-2bf2d63e2894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::div[1]</value>
+      <webElementGuid>42a5d73a-5b05-4079-acfe-4a00e89e08dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone untuk login MyNutriclub'])[1]/following::div[4]</value>
+      <webElementGuid>186c5da8-96e4-41b7-a245-14753e3fbce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim OTP'])[1]/preceding::div[1]</value>
+      <webElementGuid>30b1fbb2-60c2-4faa-bd90-a6a91e48df97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut.'])[1]/preceding::div[3]</value>
+      <webElementGuid>13e8692d-a0aa-4a46-812b-f35443141fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nomor Handphone belum diisi']/parent::*</value>
+      <webElementGuid>cbcb00fe-e3dd-4750-a41b-940ea794b3ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>73c62b5a-009e-423e-801b-1204c1e4e976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'warning-phone' and (text() = 'Nomor Handphone belum diisi' or . = 'Nomor Handphone belum diisi')]</value>
+      <webElementGuid>dfa6c127-8fe4-4b5f-8e57-49171a39fbb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

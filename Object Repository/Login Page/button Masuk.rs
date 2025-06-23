@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Masuk</name>
+   <tag></tag>
+   <elementGuidId>4364be4d-390f-45ab-baf5-8954561fc2bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9b9faae4-bf80-4b9d-a90b-33e2a59d38d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-submit</value>
+      <webElementGuid>ff8407ae-3bf9-40a7-938e-cfa70c48b363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5655f51a-ea36-4c18-94be-665b924a12a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block</value>
+      <webElementGuid>077e07bf-7e53-42d0-9d35-4a03c9dfe533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>submitFormLogin(event);</value>
+      <webElementGuid>5a613341-b452-4514-9a6b-09d907989ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Masuk                                            </value>
+      <webElementGuid>dda47ff7-6db1-43c9-bbd4-19fb719fb4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-submit&quot;)</value>
+      <webElementGuid>bccbf00c-5015-4b7a-b1a2-541b307f7be0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-submit']</value>
+      <webElementGuid>78667d12-0f69-43ff-89a4-44032118cbd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>361c2791-f843-4e38-a007-e281913a05db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/following::button[1]</value>
+      <webElementGuid>8805fe8f-8a79-40dc-a52a-80e7a0c3b285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::button[1]</value>
+      <webElementGuid>993e2c0e-6ef7-4638-bec4-5899f8c70996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk Tanpa Kata Sandi'])[1]/preceding::button[1]</value>
+      <webElementGuid>497a283c-66a9-4df9-97f6-3593d942f228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>45f15659-bc48-4593-9db2-190c9e1cea89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-submit' and @type = 'submit' and (text() = '
+                                                Masuk                                            ' or . = '
+                                                Masuk                                            ')]</value>
+      <webElementGuid>042cd323-ba4b-4234-87bc-5262a7d6a537</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil BOP - Invalid Phone Number using letter character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a12b5330-78ec-43c9-8594-9218201de5a8</testCaseGuid>
+</TestCaseEntity>

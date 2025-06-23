@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg BOP - Invalid Phone Number more than 13 character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>300988b0-f990-4873-b22a-a7ded8acc589</testCaseGuid>
+</TestCaseEntity>

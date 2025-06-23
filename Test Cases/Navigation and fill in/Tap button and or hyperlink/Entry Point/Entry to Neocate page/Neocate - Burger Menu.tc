@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neocate - Burger Menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7ec1562-53bd-40e4-af31-4fbab2d9ca5a</testCaseGuid>
+</TestCaseEntity>

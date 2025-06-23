@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label Nama Lengkap Mama</name>
+   <tag></tag>
+   <elementGuidId>856107a0-d3cc-4947-bff0-182742a4cbe2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.content-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>59c5bef5-3719-46f9-9d8e-b28ffc8a59c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>member_fullname</value>
+      <webElementGuid>c07c598c-fdf3-4e4d-8d3c-79314fe8ff38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-label</value>
+      <webElementGuid>bf0c7ac3-1545-491e-bae6-7af9a057fde4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Lengkap Mama</value>
+      <webElementGuid>bd201722-f91c-4e1e-b31a-9c3148c475c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content&quot;]/div[@class=&quot;content__input mb-2&quot;]/div[@class=&quot;content__input-wrapper&quot;]/label[@class=&quot;content-label&quot;]</value>
+      <webElementGuid>06731c23-f92c-431c-9d40-01139916dad6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div/div/div/label</value>
+      <webElementGuid>a87c2c78-7cad-4127-8046-39dd38b0d5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya Hapus'])[1]/following::label[1]</value>
+      <webElementGuid>ef352adc-5404-4d12-9bca-24ba97fe30f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/following::label[1]</value>
+      <webElementGuid>869c80aa-e0f9-4029-89f4-88209c57ca01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone Mama'])[1]/preceding::label[1]</value>
+      <webElementGuid>94309c6f-4327-498f-a4bb-e06b30613058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*yang sudah terhubung dengan WhatsApp'])[1]/preceding::label[2]</value>
+      <webElementGuid>59d4be66-fe8f-49ae-8ef9-2000fd057307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama Lengkap Mama']/parent::*</value>
+      <webElementGuid>b7dd0632-a321-4df9-8a59-a7524a8edece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>93cbb3ca-b21c-4790-9eac-5e852b0ef7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nama Lengkap Mama' or . = 'Nama Lengkap Mama')]</value>
+      <webElementGuid>04cd9822-c33c-482c-9d25-d357edb9fc4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration Pregnancy and GUM Kids Condition by tap header</description>
+   <name>Reg BOP by tap header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b6c48f4-55ea-458f-9c50-eed1fd939105</testCaseGuid>
+</TestCaseEntity>

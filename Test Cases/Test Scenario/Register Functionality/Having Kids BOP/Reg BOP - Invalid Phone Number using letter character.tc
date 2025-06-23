@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg BOP - Invalid Phone Number using letter character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d79e9626-ff1f-48d6-a683-f38bd4ca21b3</testCaseGuid>
+</TestCaseEntity>

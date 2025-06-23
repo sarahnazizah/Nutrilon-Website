@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert Box Maksimal 13 Karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d731a42-100c-434f-87fa-3e320b5d4e60</testCaseGuid>
+</TestCaseEntity>

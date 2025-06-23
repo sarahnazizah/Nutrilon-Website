@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Letter - Field Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0fd51096-23a0-4abd-b28c-932d1d4e8770</testCaseGuid>
+</TestCaseEntity>

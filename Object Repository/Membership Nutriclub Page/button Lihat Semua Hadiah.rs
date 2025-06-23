@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Lihat Semua Hadiah</name>
+   <tag></tag>
+   <elementGuidId>4c0f15a6-cef7-4bf0-82ea-9347a88fb572</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.d-block.cta-login-register.text-center.bg-gold-gradient-1.text-gothamroundedbold.text-blue-800.hov-text-blue-700.p-2.rounded-pill.w-230px.shadow.mx-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4728f250-679c-465c-93cb-11638a49ed87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>439cd56f-832e-453e-bcb5-ee9fddec24fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn d-block cta-login-register text-center bg-gold-gradient-1 text-gothamroundedbold text-blue-800 hov-text-blue-700 p-2 rounded-pill w-230px shadow mx-auto</value>
+      <webElementGuid>82774721-0bbc-4a81-9c85-a733e027622a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location.href='https://www.nutriclub.co.id/assets/NUTRICLUB%20NEW%20CATALOGUE%202024.png';</value>
+      <webElementGuid>c6985dc3-5f46-43bf-9a67-1c561ffb2007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Lihat Semua Hadiah                    </value>
+      <webElementGuid>edb2850e-37c5-45ce-aefe-3a2ce401ff3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reward-benefit-catalogue-1&quot;)/div[@class=&quot;container-fluid py-5&quot;]/div[@class=&quot;row d-flex justify-content-center&quot;]/div[@class=&quot;col-11 col-md-6 py-md-5&quot;]/div[@class=&quot;w-80 w-sm-90i mx-auto catalouge_section img-catalog&quot;]/button[@class=&quot;btn d-block cta-login-register text-center bg-gold-gradient-1 text-gothamroundedbold text-blue-800 hov-text-blue-700 p-2 rounded-pill w-230px shadow mx-auto&quot;]</value>
+      <webElementGuid>c9c3b4b3-9394-42b4-809c-d1058312659f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>c0a3b352-61b5-4f24-8638-e7b2bb487ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='reward-benefit-catalogue-1']/div/div/div/div[2]/button</value>
+      <webElementGuid>f6fc20b2-2ea1-43ee-8aec-aeb13013bfb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca artikel di website*'])[1]/following::button[1]</value>
+      <webElementGuid>ebcdf0d4-37b3-4358-985a-72ace78fb891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Nutrilon Royal'])[1]/following::button[1]</value>
+      <webElementGuid>2450b99e-f79a-4e08-95a8-57361e7b1b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar via Website'])[1]/preceding::button[1]</value>
+      <webElementGuid>2954f63e-725d-409f-a867-202606cd9edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar via Whatsapp'])[1]/preceding::button[2]</value>
+      <webElementGuid>b601dd36-714b-4c63-b35f-72c4e6794029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Semua Hadiah']/parent::*</value>
+      <webElementGuid>c06992c4-e129-46da-ba4d-11f349836c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/button</value>
+      <webElementGuid>321f35e5-0dec-48e4-a237-6326b3bd823c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                        Lihat Semua Hadiah                    ' or . = '
+                        Lihat Semua Hadiah                    ')]</value>
+      <webElementGuid>9b30d1ba-3a0e-4150-a99f-e896022da17d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

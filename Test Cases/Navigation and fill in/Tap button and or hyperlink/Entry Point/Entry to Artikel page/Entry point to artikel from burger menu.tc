@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigation to artikel page</description>
+   <name>Entry point to artikel from burger menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15fe1eb7-f8cd-4b83-9c47-f508b4fcd90b</testCaseGuid>
+</TestCaseEntity>

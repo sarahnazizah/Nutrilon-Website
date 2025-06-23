@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert phone number more than 13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5dd610dd-9b71-4022-b115-0e6c1ed5e2ba</testCaseGuid>
+</TestCaseEntity>

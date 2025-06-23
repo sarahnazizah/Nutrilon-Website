@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login via burger menu</description>
+   <name>Login via register page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c38292f1-56b8-4866-917e-2264b002a138</testCaseGuid>
+</TestCaseEntity>

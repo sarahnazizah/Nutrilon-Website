@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert nama mama maksimal 40 karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>037dd559-221b-44f7-b08c-c9d6b7a6e217</testCaseGuid>
+</TestCaseEntity>

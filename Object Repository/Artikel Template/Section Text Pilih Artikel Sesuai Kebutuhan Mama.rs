@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Section Text Pilih Artikel Sesuai Kebutuhan Mama</name>
+   <tag></tag>
+   <elementGuidId>a183681c-d8fd-4739-b6e6-1347877fb78e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title-milestone-tag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>680bdd63-6c48-4750-865c-ff17e0af71d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-milestone-tag</value>
+      <webElementGuid>369697ba-6d62-43d5-8cea-b5dc488b67c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Artikel Sesuai Kebutuhan Mama</value>
+      <webElementGuid>5b6bb787-c0ff-4ff1-8153-e96e5b36854f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;article-detail&quot;]/div[@class=&quot;container detail-article wrapper&quot;]/div[@class=&quot;title-milestone-tag&quot;]</value>
+      <webElementGuid>2ee90a86-5cd2-4ada-971e-2de72f9b53f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='exclusive rewards'])[1]/following::div[1]</value>
+      <webElementGuid>671b1cd6-920d-4f48-ab6a-d56c3f7ffac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='call center'])[1]/following::div[1]</value>
+      <webElementGuid>26881259-88b4-4d0d-927b-f3697793d99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[1]</value>
+      <webElementGuid>c1478b82-52b9-43ed-9a08-be19d9e58ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[4]</value>
+      <webElementGuid>a3daba6e-993d-42d4-8458-2d38df71c0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Artikel Sesuai Kebutuhan Mama']/parent::*</value>
+      <webElementGuid>94c9776d-032e-49f5-8565-0f5212a80eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>cdd18c28-237a-47e8-aa28-b14757bb7fc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill in valid phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>145d236e-e622-49e3-a183-5295e4c68da8</testCaseGuid>
+</TestCaseEntity>

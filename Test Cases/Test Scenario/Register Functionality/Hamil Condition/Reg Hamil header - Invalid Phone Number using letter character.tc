@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil header - Invalid Phone Number using letter character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25a36823-30dc-4f90-a99f-288d761019be</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label Kode Event</name>
+   <tag></tag>
+   <elementGuidId>6b329a53-5948-4873-a824-a561a439d595</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div[5]/div[2]/div/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4afc3b1d-2afe-477b-96e0-60791f02bfc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>isRefferalCodeEventCode</value>
+      <webElementGuid>0a8ab390-1a28-46ac-bbb7-7b7ff6ee9be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>35f2e3c8-a131-442d-90c3-295fce87ede2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kode Event</value>
+      <webElementGuid>7425ac36-fb6c-41c2-b95e-d7a05e44e20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;content__input referal-event&quot;]/div[@class=&quot;content__input&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>efae5122-552c-4fd8-b071-2e47e455b389</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div[5]/div[2]/div/div/div[2]/label</value>
+      <webElementGuid>6dbe6e67-25bf-4423-b8f0-09cdbe87086c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Referral'])[1]/following::label[1]</value>
+      <webElementGuid>4cc04c5c-159f-46a6-9bc7-0f3e0fa84fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Mama Punya Kode Referral / Event?'])[1]/following::label[3]</value>
+      <webElementGuid>c69720d2-9d3e-4a8c-93b7-26fa7a204827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pernyataan Privasi,'])[1]/preceding::label[1]</value>
+      <webElementGuid>691dbc3d-2c8b-4e15-b5af-016e1ca0e779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kode Event']/parent::*</value>
+      <webElementGuid>eb7f1cf8-deb4-46f2-8604-6496b8fbee91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/label</value>
+      <webElementGuid>0f3e31e0-0924-4dac-87f3-b56346adf692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Kode Event' or . = 'Kode Event')]</value>
+      <webElementGuid>4af9ed9c-fbd2-4b7d-974a-3b4f5a06f9de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

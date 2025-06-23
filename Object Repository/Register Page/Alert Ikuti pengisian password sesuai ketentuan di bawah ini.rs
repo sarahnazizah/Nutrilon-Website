@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Ikuti pengisian password sesuai ketentuan di bawah ini</name>
+   <tag></tag>
+   <elementGuidId>2a01af30-ec0a-4580-a8c8-3e08e3fbebfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.error2.error-password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popover-password']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>787df718-3e38-43b9-987d-68ac78272901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error2 error-password</value>
+      <webElementGuid>b09b5342-0c9c-4379-989b-bd387f936793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ikuti pengisian password sesuai ketentuan di bawah ini</value>
+      <webElementGuid>11c6f65c-b3c9-4b45-8820-504b02315b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover-password&quot;)/span[@class=&quot;error2 error-password&quot;]</value>
+      <webElementGuid>9052b7b6-0887-435d-94e8-d0824f1ef5c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover-password']/span</value>
+      <webElementGuid>87c14950-8f22-47df-a52b-44773c48f23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>57dad1a6-29d1-423c-8f73-1117bd597253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor ponsel (terhubung WhatsApp) wajib diisi'])[1]/following::span[1]</value>
+      <webElementGuid>1185472a-ec9c-452d-8a63-896fc70714c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ikuti pengisian password sesuai ketentuan di bawah ini']/parent::*</value>
+      <webElementGuid>6a129444-d291-4a15-9216-062d660c4d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]/div/div/span</value>
+      <webElementGuid>9d23afae-c84c-4804-a83f-706f491e3b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ikuti pengisian password sesuai ketentuan di bawah ini' or . = 'Ikuti pengisian password sesuai ketentuan di bawah ini')]</value>
+      <webElementGuid>8e8d8580-68c4-49b3-aacd-fd10d582293e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

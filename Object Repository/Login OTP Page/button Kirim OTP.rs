@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Kirim OTP</name>
+   <tag></tag>
+   <elementGuidId>118f725d-e205-46b8-aa7f-6d058bef7424</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>382274c2-a5cd-4a0f-92d4-5ede72d0a5cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-submit</value>
+      <webElementGuid>000c135a-5f17-46a0-9faa-3bcf33204187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0162c738-8ca9-4213-93de-c1efff411b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block</value>
+      <webElementGuid>b3cff99f-fdcd-49bf-8ae6-4725829b8dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Kirim OTP
+                                            </value>
+      <webElementGuid>7ab516bf-1d24-4f18-8f21-be9c51839b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-submit&quot;)</value>
+      <webElementGuid>a6c694c8-b722-42c8-899d-07e35919ba8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-submit']</value>
+      <webElementGuid>5f4844bb-15cb-447b-b75f-9c37044395a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div[3]/div/button</value>
+      <webElementGuid>ba1edbb9-5cd7-4bc5-b34b-675cb52f9a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::button[1]</value>
+      <webElementGuid>c8fc4e0d-6f6b-4a1a-8c15-4fa6596ba200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan nomor handphone untuk login MyNutriclub'])[1]/following::button[1]</value>
+      <webElementGuid>843dbd44-0960-464f-a1a5-1d4f4b7adcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut.'])[1]/preceding::button[1]</value>
+      <webElementGuid>763bfcd0-05d6-4d1a-b942-e849f7eea38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asi terbaik bagi bayi'])[1]/preceding::button[1]</value>
+      <webElementGuid>4ab0dd18-c92e-440a-a136-474f70fd8daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kirim OTP']/parent::*</value>
+      <webElementGuid>8e7bd381-062e-4e3e-b1b4-d87ca896527f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>13f8fda1-e7b6-44df-9588-2adaeba81dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-submit' and @type = 'button' and (text() = '
+                                                Kirim OTP
+                                            ' or . = '
+                                                Kirim OTP
+                                            ')]</value>
+      <webElementGuid>ac3c85a4-531d-4823-be02-a49a995a1ca2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

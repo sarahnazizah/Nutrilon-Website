@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration Pregnancy Condition by tap header</description>
+   <name>Reg Hamil by tap header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11608b71-68a3-4fec-a33a-fd2e98936b9c</testCaseGuid>
+</TestCaseEntity>

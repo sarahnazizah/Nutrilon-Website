@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Refferal Code Not Found</name>
+   <tag></tag>
+   <elementGuidId>0fab8fd2-c7e4-42fa-8b2e-82f9bc04b292</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='modal-content-desc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modal-content-desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8794c13d-b61e-490d-ac29-3e819438ce47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modal-content-desc</value>
+      <webElementGuid>8a2a68a4-57bc-40a8-9743-312938dde3af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refferal Code Not Found</value>
+      <webElementGuid>292d778d-67cf-48b0-b11b-539abf6fdae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-content-desc&quot;)</value>
+      <webElementGuid>d7c537bc-b82e-464f-a042-cd7e29bab560</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='modal-content-desc']</value>
+      <webElementGuid>9ef23d7a-4e0b-44e3-9cb8-6a038e2999f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-failed-register']/div/div/div[3]/p</value>
+      <webElementGuid>d4b56519-6a8f-49ce-8deb-3e61b4b3a481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjadi Kesalahan!'])[1]/following::p[1]</value>
+      <webElementGuid>29150ac0-78bf-4db2-bfff-d716e2b31092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk di sini'])[1]/following::p[1]</value>
+      <webElementGuid>c999d72f-cb6b-4729-a0f2-4d376c805375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Kode OTP'])[1]/preceding::p[1]</value>
+      <webElementGuid>32e5bcc0-87b9-4371-84bc-8b7c2c8ec5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login di sini'])[1]/preceding::p[1]</value>
+      <webElementGuid>003ed749-cb5b-4b10-b19c-d4fd91c78def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refferal Code Not Found']/parent::*</value>
+      <webElementGuid>120397a6-2b14-4cc7-85c8-2e2ccc22e3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/div[3]/p</value>
+      <webElementGuid>458a4866-6176-4456-8916-84172efecb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'modal-content-desc' and (text() = 'Refferal Code Not Found' or . = 'Refferal Code Not Found')]</value>
+      <webElementGuid>5b371e8d-fc5e-4f66-95ec-7fcd8dcff2f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

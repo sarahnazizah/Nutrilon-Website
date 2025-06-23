@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NR 4 from burger menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0eb6a14-c4bd-4783-9eaf-62bacc99b516</testCaseGuid>
+</TestCaseEntity>

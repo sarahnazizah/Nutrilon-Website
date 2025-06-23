@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Artikel Anak - Nutrisi</name>
+   <tag></tag>
+   <elementGuidId>690cc080-ed12-4250-8a6f-280b17e8e1df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Nutrisi')])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3275e0df-b097-4e05-9298-97e579c93c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel?kategori=anak&amp;topik=nutrisi</value>
+      <webElementGuid>a2ea5b50-ed75-488e-963a-e33e4052db1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-item fading</value>
+      <webElementGuid>01f5c003-2b88-4fe4-86bc-7f3c268e5848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutrisi</value>
+      <webElementGuid>fcb73536-54f9-442a-91aa-5dac76260925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;search__results navbar-nav mobile d-block animated fadeInRight&quot;]/div[@class=&quot;hamburger-menu&quot;]/div[@class=&quot;hamburger-menu__lists-wrapper&quot;]/ul[@class=&quot;hamburger-menu__lists-item&quot;]/li[@class=&quot;hamburger-menu__item have-sub-menu&quot;]/div[@class=&quot;hamburger-menu__item sub-item show&quot;]/div[@class=&quot;sub-item-list child list-item-level-2&quot;]/ul[@class=&quot;list-item-wrapper parent list-item-level-3&quot;]/li[@class=&quot;list-item child list-item-level-3&quot;]/a[@class=&quot;sub-item fading&quot;]</value>
+      <webElementGuid>321c21b6-5875-4356-bf93-95473dd3110f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Nutrisi')])[3]</value>
+      <webElementGuid>f69cb1d2-b179-4eec-b232-57d7f519b8e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[2]/following::a[1]</value>
+      <webElementGuid>723d4cdc-ce3f-4698-8617-90749e5196c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesehatan'])[3]/following::a[2]</value>
+      <webElementGuid>68590e63-ab5d-45de-9693-7d566cb9f451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[3]/preceding::a[1]</value>
+      <webElementGuid>4a51c4b6-8ec7-4aec-af89-2d3f2d727866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tes Potensi Caesar'])[2]/preceding::a[2]</value>
+      <webElementGuid>adf2121e-7684-43e5-b089-debfd180333d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/artikel?kategori=anak&amp;topik=nutrisi')]</value>
+      <webElementGuid>13ade88a-89ab-4d61-b683-4f3f1ffabcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[5]/a</value>
+      <webElementGuid>726e46e8-1a96-4f30-8a19-08fcf4c851be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel?kategori=anak&amp;topik=nutrisi' and (text() = 'Nutrisi' or . = 'Nutrisi')]</value>
+      <webElementGuid>31b11b90-ca40-4bb8-b92f-0084efbf071f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

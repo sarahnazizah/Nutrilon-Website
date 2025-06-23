@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert no wajib diisi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bf974f6-f8ac-4c68-94b1-a296d8941ac4</testCaseGuid>
+</TestCaseEntity>

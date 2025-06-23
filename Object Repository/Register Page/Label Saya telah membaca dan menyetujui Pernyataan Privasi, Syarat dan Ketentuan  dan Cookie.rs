@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label Saya telah membaca dan menyetujui Pernyataan Privasi, Syarat dan Ketentuan  dan Cookie</name>
+   <tag></tag>
+   <elementGuidId>cd35a30e-ddba-4965-a95f-cdd2899ae8b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content__input.mb-1 > label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div[6]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>79c67902-f654-4190-ac97-dde310aa2f15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>agreementPrivacy</value>
+      <webElementGuid>66c2e7e7-0170-42ff-953b-c67e07352eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>36878440-2112-4d9a-a65d-37ff32b867b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya telah membaca dan menyetujui Pernyataan Privasi, Syarat dan Ketentuan  dan Cookie</value>
+      <webElementGuid>17a80314-2fac-4b0e-8526-6f732594c46f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content-bottom&quot;]/div[@class=&quot;form-check&quot;]/div[@class=&quot;content__input mb-1&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>6834da36-6873-41e0-895f-3d2b2dcc836a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div[6]/div/div/label</value>
+      <webElementGuid>82a108a0-118f-402a-adf0-cbdbc8b16f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Event'])[1]/following::label[1]</value>
+      <webElementGuid>8ab2ed92-1325-4bac-9624-dcbdbf9b2597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Referral'])[1]/following::label[2]</value>
+      <webElementGuid>e8aa478b-a12f-42c9-9c0d-a1cddd8c4650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya telah membaca dan menyetujui']/parent::*</value>
+      <webElementGuid>2cbbc70e-edb0-413f-9bba-9b5a14826c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/label</value>
+      <webElementGuid>1fa47ee0-a519-4848-9ae7-f6760fc69269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Saya telah membaca dan menyetujui Pernyataan Privasi, Syarat dan Ketentuan  dan Cookie' or . = 'Saya telah membaca dan menyetujui Pernyataan Privasi, Syarat dan Ketentuan  dan Cookie')]</value>
+      <webElementGuid>f98e503b-08ff-4499-819e-79cb5ccac51a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

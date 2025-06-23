@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user unable to login using invalid credential (Phone number)</description>
+   <name>Login invalid phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f63b2cea-4299-4658-a40d-76c19b3a5b91</testCaseGuid>
+</TestCaseEntity>

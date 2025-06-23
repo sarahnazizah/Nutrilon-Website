@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user will navigate to login page after tap login button</description>
+   <name>Entry to Login from header</name>
+   <tag>Header Menu / Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01186ecd-6a4c-4188-9bd1-edf93f1eb91d</testCaseGuid>
+</TestCaseEntity>

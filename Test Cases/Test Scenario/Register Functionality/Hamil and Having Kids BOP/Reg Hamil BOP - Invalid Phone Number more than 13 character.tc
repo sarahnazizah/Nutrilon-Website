@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil BOP - Invalid Phone Number more than 13 character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ac5089a-5749-4248-a220-75c922df848c</testCaseGuid>
+</TestCaseEntity>

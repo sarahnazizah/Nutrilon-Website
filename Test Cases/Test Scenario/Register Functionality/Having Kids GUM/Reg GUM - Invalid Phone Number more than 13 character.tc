@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg GUM - Invalid Phone Number more than 13 character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed4f2ff5-c0f0-494a-95c9-36b8d03ceb86</testCaseGuid>
+</TestCaseEntity>

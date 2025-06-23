@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Banner Register</name>
+   <tag></tag>
+   <elementGuidId>7ea77d95-9268-4f9d-9696-dd34db38f878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>picture > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-banner']/div/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c27588e8-fefc-44c1-8129-29ce0c337a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_default_upload_bucket/image-thumb__416764__default/nutriclub-banner-uvp-desktop_2%20%281%29.webp</value>
+      <webElementGuid>3a5d93ea-af5f-4bb3-9797-136c9b3870b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1440</value>
+      <webElementGuid>ee501a08-5f50-4b95-9f9c-67a3669b6a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>443</value>
+      <webElementGuid>160f3cb2-fc7a-42ad-a8bf-e6630f310f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-banner&quot;)/div[@class=&quot;membership-banner-wrapper without-campaign&quot;]/picture[1]/img[1]</value>
+      <webElementGuid>016f5eb2-6114-409e-b9d2-5847d7a0e560</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-banner']/div/picture/img</value>
+      <webElementGuid>179e9cf4-8001-47d6-a84b-cc5be2a2fcf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture/img</value>
+      <webElementGuid>0eb31a7d-7d08-4143-b98d-2eb529a753d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_default_upload_bucket/image-thumb__416764__default/nutriclub-banner-uvp-desktop_2%20%281%29.webp']</value>
+      <webElementGuid>4c1c702d-23f6-4c9b-a596-b9f20e0df354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

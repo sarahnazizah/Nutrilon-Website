@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Registered Member will not be able to register</description>
+   <name>Reg Hamil GUM by tap header - Registered Member</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5e72e85-637d-485b-97b2-9d12de235b8e</testCaseGuid>
+</TestCaseEntity>

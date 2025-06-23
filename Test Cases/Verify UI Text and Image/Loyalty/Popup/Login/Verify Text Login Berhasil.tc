@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Text Login Berhasil will display</description>
+   <name>Verify Text Login Berhasil</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>242442a4-2bc3-4c41-bd21-28f8ed25d104</testCaseGuid>
+</TestCaseEntity>

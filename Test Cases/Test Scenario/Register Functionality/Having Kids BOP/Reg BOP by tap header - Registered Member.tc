@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Registered Member will not be able to register</description>
+   <name>Reg BOP by tap header - Registered Member</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48951e1c-a838-480d-b02d-f84bc2b2601f</testCaseGuid>
+</TestCaseEntity>

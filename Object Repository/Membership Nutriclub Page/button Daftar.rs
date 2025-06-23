@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Daftar</name>
+   <tag></tag>
+   <elementGuidId>579943c2-1860-4445-b19e-13428252e239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.cta-login-register.text-gothamroundedbold.text-center.text-white.bg-blue-800.px-2.py-1.py-md-2.rounded-pill.w-400px.w-sm-135px.shadow.mx-sm-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88631e78-bbae-4722-8e66-0b3ff729ff1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>836fb503-6c49-475f-826d-29a45aa25db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn cta-login-register text-gothamroundedbold text-center text-white bg-blue-800 px-2 py-1 py-md-2 rounded-pill w-400px w-sm-135px shadow mx-sm-auto</value>
+      <webElementGuid>daeee200-848e-4f59-836e-9b686cef8e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location.href='/membership/register?referral=https://www.nutriclub.co.id';</value>
+      <webElementGuid>f8533d53-01c1-49d0-880c-31670136d8b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Daftar                    </value>
+      <webElementGuid>88958f31-bb6a-4f3f-9e41-e3e3df8d843c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-description-home-membership&quot;)/div[@class=&quot;container-fluid pt-4 pb-0&quot;]/div[@class=&quot;row d-flex justify-content-center py-0 py-md-5&quot;]/div[@class=&quot;col-11 col-md-5&quot;]/div[@class=&quot;section-description-home-cta-area d-flex flex-row flex-md-column justify-content-center gap-2 py-0 py-md-3&quot;]/button[@class=&quot;btn cta-login-register text-gothamroundedbold text-center text-white bg-blue-800 px-2 py-1 py-md-2 rounded-pill w-400px w-sm-135px shadow mx-sm-auto&quot;]</value>
+      <webElementGuid>a1e434d3-14dd-4989-a597-6692da5c8d9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>1dc5db55-239d-48dc-a7a6-60eadf315ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-description-home-membership']/div/div/div[2]/div/button[2]</value>
+      <webElementGuid>3415583d-38b0-4e42-b0ea-1eeeabf42d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/following::button[1]</value>
+      <webElementGuid>91ba879d-421f-456c-a98f-2912c7ad7f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenapa Bergabung di Nutriclub?'])[1]/following::button[2]</value>
+      <webElementGuid>c56a00b0-220b-452d-bf87-3e96a9afe9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuntungan Member Nutriclub'])[1]/preceding::button[1]</value>
+      <webElementGuid>d14693ba-df69-4204-b1f5-d4c5e2c98a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert-Verified Content'])[1]/preceding::button[1]</value>
+      <webElementGuid>dea3657b-d688-4849-bada-c63a03a0b3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>0c4fb7b8-4f04-4290-a7b6-a65b0c60b9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                        Daftar                    ' or . = '
+                        Daftar                    ')]</value>
+      <webElementGuid>06006be0-7d0a-4827-98de-0fed3a9ad86b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

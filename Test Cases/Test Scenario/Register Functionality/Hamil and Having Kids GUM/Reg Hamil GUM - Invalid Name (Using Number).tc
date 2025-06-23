@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil GUM - Invalid Name (Using Number)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff5fccc9-c834-427c-857a-65a3a8bd5401</testCaseGuid>
+</TestCaseEntity>

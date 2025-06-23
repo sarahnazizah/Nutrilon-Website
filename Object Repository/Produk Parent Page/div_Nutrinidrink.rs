@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nutrinidrink</name>
+   <tag></tag>
+   <elementGuidId>0ca56888-9a13-43e7-a00f-2cc49787f040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-product-parent-page.nutrinidrink > a > div.text-area-product-card > div.name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='other-product-landing']/div/div[2]/div/div/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>94df5e02-37dd-4ce4-a343-c106798d92d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>58889bf2-754a-4b4c-8569-52acd121f5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutrinidrink</value>
+      <webElementGuid>e6b68c7d-c305-4f8c-9ea7-7cad06288177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;other-product-landing&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row product-list-wrapper&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;card-product-parent-page nutrinidrink&quot;]/a[1]/div[@class=&quot;text-area-product-card&quot;]/div[@class=&quot;name&quot;]</value>
+      <webElementGuid>ead67178-c0c4-4c17-8121-6c5d2130bb4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='other-product-landing']/div/div[2]/div/div/a/div[2]/div</value>
+      <webElementGuid>ae3c624a-d726-4e13-aa3d-c07ef4711466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Susu Nutrilon Lainnya'])[1]/following::div[6]</value>
+      <webElementGuid>2b3898f6-5cd3-455b-91d6-0355dcf7ddcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrilon Royal Rasa Madu'])[1]/following::div[12]</value>
+      <webElementGuid>7b7ad58a-6867-4491-8c34-a0fac379214c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Produk'])[3]/preceding::div[1]</value>
+      <webElementGuid>136edd47-1ca9-4df3-bbcb-a91cabf7b5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neocate Junior'])[2]/preceding::div[2]</value>
+      <webElementGuid>b4876987-b7e1-459c-a3ef-028c56e63dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div[2]/div</value>
+      <webElementGuid>19052129-0752-4529-b844-e4b163a96b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nutrinidrink' or . = 'Nutrinidrink')]</value>
+      <webElementGuid>aa85f1eb-12b5-460f-a714-3cefc1255b67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

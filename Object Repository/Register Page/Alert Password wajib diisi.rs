@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Password wajib diisi</name>
+   <tag></tag>
+   <elementGuidId>5d4e41de-e900-4319-87b3-aeabdc6524a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.error2.error-password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popover-password']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b82e3bcf-d229-4549-bcb8-a3f8cb32656b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error2 error-password</value>
+      <webElementGuid>61ef26ae-1bec-4dcb-a960-c4ae11e47fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password wajib diisi</value>
+      <webElementGuid>3ddfa287-199f-4527-bb28-47c53f3bcf77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover-password&quot;)/span[@class=&quot;error2 error-password&quot;]</value>
+      <webElementGuid>eba7cc74-97f5-4a52-acf1-688ecab343a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover-password']/span</value>
+      <webElementGuid>cde4ff0e-3e07-489d-bab1-2114f5f477a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>6e2b988e-5950-4437-8e19-09938d357460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor ponsel (terhubung WhatsApp) wajib diisi'])[1]/following::span[1]</value>
+      <webElementGuid>e6985070-8ef4-43f1-8631-d65085a2083a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password wajib diisi']/parent::*</value>
+      <webElementGuid>b026b96b-e3fd-41cc-88dd-65367b995546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]/div/div/span</value>
+      <webElementGuid>5e3a2b66-a0fe-4227-b3bb-d8ce4e5bbe0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Password wajib diisi' or . = 'Password wajib diisi')]</value>
+      <webElementGuid>2ba1eae9-d53a-4645-9efa-255d91aa39f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

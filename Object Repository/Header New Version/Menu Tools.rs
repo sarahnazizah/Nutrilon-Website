@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Tools</name>
+   <tag></tag>
+   <elementGuidId>a7f70490-e99f-4170-97f7-8a37ad2b1bcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='navbarNav']/div/ul/div[3]/li/a)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>81559c13-0ee6-449a-a2f6-093fba235273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link header__caption</value>
+      <webElementGuid>d42963ea-5d87-4019-8dab-6fe3671ad31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Tools</value>
+      <webElementGuid>b03efd43-162b-4c83-a511-c5b4b9c10fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tools</value>
+      <webElementGuid>984626ef-0896-41e0-859d-e73309782254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Tools </value>
+      <webElementGuid>d827e3b1-e1ae-42c8-9977-2620b69ef395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@class=&quot;container header header-result d-block&quot;]/div[@class=&quot;container header header-form p-0&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col col-lg-9 p-0&quot;]/ul[@class=&quot;navbar-nav mobile header__tool text-center mobile-hamburger&quot;]/div[@class=&quot;navbar-nav__menu&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link header__caption&quot;]</value>
+      <webElementGuid>58f03822-e65b-4318-93ad-a37325eb4b4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='navbarNav']/div/ul/div[3]/li/a)[3]</value>
+      <webElementGuid>c9a414e8-5d35-4236-8524-4b8fee6a0a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Tools')])[2]</value>
+      <webElementGuid>b1915ea2-711a-4f2a-b3ea-9335bd1e743b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[2]/following::a[2]</value>
+      <webElementGuid>6850c5a0-b03d-4aa6-9293-4542b1e03c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[2]/following::a[3]</value>
+      <webElementGuid>58931acc-0538-4361-bfc0-1e32856ea16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[2]/preceding::a[1]</value>
+      <webElementGuid>9d32faec-3fc9-4145-a2dd-0f54e846ef1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::a[2]</value>
+      <webElementGuid>8e00918c-fcd5-4560-8bfe-1414f267708d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/tools')])[4]</value>
+      <webElementGuid>75c8298c-9bfc-4368-b816-6a979979b4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/div[3]/li/a</value>
+      <webElementGuid>45d43401-fdfe-4af2-817b-be3e0b62cb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tools' and (text() = '
+                                        Tools ' or . = '
+                                        Tools ')]</value>
+      <webElementGuid>4812b5b0-d1ad-4580-81f6-e6ec02075243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

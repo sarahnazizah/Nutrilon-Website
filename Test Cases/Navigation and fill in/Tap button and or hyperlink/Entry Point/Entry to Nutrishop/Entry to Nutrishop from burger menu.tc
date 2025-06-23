@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User will navigate to Nutrishop website</description>
+   <name>Entry to Nutrishop from burger menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70236a9e-ccd4-4d19-af4b-642ac9d635e8</testCaseGuid>
+</TestCaseEntity>

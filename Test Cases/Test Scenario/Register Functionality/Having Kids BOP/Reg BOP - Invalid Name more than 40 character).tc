@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg BOP - Invalid Name more than 40 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8452e807-68f8-4cda-9f24-3ce019f35034</testCaseGuid>
+</TestCaseEntity>

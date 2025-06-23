@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Kata Sandi harus diisi</name>
+   <tag></tag>
+   <elementGuidId>3021d303-9d26-4604-9861-f8538fcdb76a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#warning-password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='warning-password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>556be032-4dcb-4e70-be63-b9d7f2b19b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warning-password show</value>
+      <webElementGuid>9a353b43-cb17-42d3-94ae-4907eeade374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>warning-password</value>
+      <webElementGuid>4cba798c-9c8e-411b-89dd-49c29edf83ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata Sandi harus diisi</value>
+      <webElementGuid>4bda7833-e840-416e-9569-d387c8af7260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;warning-password&quot;)</value>
+      <webElementGuid>671793df-4c26-47b4-86e6-ef4de98e558d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='warning-password']</value>
+      <webElementGuid>ea54abc3-a003-4f78-9351-7cee7f18bf63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div/div[3]/div[3]</value>
+      <webElementGuid>49ab1630-fc9c-484e-888c-f0613448b05f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::div[3]</value>
+      <webElementGuid>d79e900d-cb55-40b9-a08f-f9044516397c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone harus diisi'])[1]/following::div[5]</value>
+      <webElementGuid>3655906f-e963-4446-b3e1-1a917a65685e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/preceding::div[1]</value>
+      <webElementGuid>9410d570-60a2-498f-ac25-49ee7c307488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::div[3]</value>
+      <webElementGuid>ca4a83e0-0731-4c5d-8bf1-4ecadff7954d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kata Sandi harus diisi']/parent::*</value>
+      <webElementGuid>20262963-682c-4af8-867b-a0a96dcb93e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>5829ced2-dae3-4445-94e3-993ee51d8c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'warning-password' and (text() = 'Kata Sandi harus diisi' or . = 'Kata Sandi harus diisi')]</value>
+      <webElementGuid>695c76cc-a6c1-4387-955f-6266a62157d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

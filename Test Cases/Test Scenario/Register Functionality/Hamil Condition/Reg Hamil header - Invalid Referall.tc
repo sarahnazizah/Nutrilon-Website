@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Registration Pregnancy Condition by tap header</description>
+   <name>Reg Hamil header - Invalid Referall</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>245120df-0ddd-4d8e-a1bc-841ff011254d</testCaseGuid>
+</TestCaseEntity>

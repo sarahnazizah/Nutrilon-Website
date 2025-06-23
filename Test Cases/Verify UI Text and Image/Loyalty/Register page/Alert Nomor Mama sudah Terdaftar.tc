@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert Nomor Mama sudah Terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb4c0880-d19b-4929-86cb-409943e7e0b6</testCaseGuid>
+</TestCaseEntity>

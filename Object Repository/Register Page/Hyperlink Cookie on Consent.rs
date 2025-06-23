@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hyperlink Cookie on Consent</name>
+   <tag></tag>
+   <elementGuidId>bd5cf5b7-7fe9-4a57-8910-70a4bca2059d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-check-label > a:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div[6]/div/div/label/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>38de4225-65d5-4c22-bacd-5b39fdea530f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cookie</value>
+      <webElementGuid>63beaf57-8a46-4fe3-ac0a-aa00b096aa5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie</value>
+      <webElementGuid>4275b45b-a3dd-412d-bece-66f38b1f570d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content-bottom&quot;]/div[@class=&quot;form-check&quot;]/div[@class=&quot;content__input mb-1&quot;]/label[@class=&quot;form-check-label&quot;]/a[3]</value>
+      <webElementGuid>655a0ab8-450c-40b0-81ce-32cf96fd40a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div[6]/div/div/label/a[3]</value>
+      <webElementGuid>4dc913fe-2a08-4544-b5e3-2dc9e7c1172f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cookie')]</value>
+      <webElementGuid>419e297e-0508-4639-9f65-9f75e9690739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::a[1]</value>
+      <webElementGuid>c5b19cd6-e355-478f-a169-fd1f47b2711e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pernyataan Privasi,'])[1]/following::a[2]</value>
+      <webElementGuid>6239e052-0ae4-474a-bc17-fe91dd888b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checklist Wajib Dicentang'])[1]/preceding::a[1]</value>
+      <webElementGuid>d0f9d06a-25c1-4a8c-9f65-2f0aef0fbfb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim Kode OTP'])[1]/preceding::a[1]</value>
+      <webElementGuid>d43c4702-7ded-4975-b523-91f6e817eb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cookie']/parent::*</value>
+      <webElementGuid>426274bc-6733-4514-aad2-8b004df9ca06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/cookie')]</value>
+      <webElementGuid>404618e3-cbee-4a09-ba24-cf75283b1bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/a[3]</value>
+      <webElementGuid>204dc607-fbc1-4cda-9210-16823fc7b6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cookie' and (text() = 'Cookie' or . = 'Cookie')]</value>
+      <webElementGuid>2e6824e8-d0e3-4647-87c8-00f3d9f1ab08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

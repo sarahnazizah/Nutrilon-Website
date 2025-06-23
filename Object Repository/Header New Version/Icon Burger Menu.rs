@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon Burger Menu</name>
+   <tag></tag>
+   <elementGuidId>951d67fe-875d-4ed3-a2d1-2e468b4830ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div[2]/a[4]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-bars.fa-xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>258ed942-7859-4742-8cb0-c469ee1f8bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars fa-xl</value>
+      <webElementGuid>0a568aa3-5e46-4b10-91bb-75e2c3fed9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col d-flex align-items-center justify-content-end&quot;]/a[@class=&quot;navbar-brand header__brand mr-0 header__search-submit&quot;]/i[@class=&quot;fa fa-bars fa-xl&quot;]</value>
+      <webElementGuid>26368052-9d80-4e94-9752-fb1cdf4455c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div[2]/a[4]/i</value>
+      <webElementGuid>fb2a031f-f8df-4532-8a25-f52e69316be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>8b8731cf-5541-4fa4-b87b-cddec9647381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

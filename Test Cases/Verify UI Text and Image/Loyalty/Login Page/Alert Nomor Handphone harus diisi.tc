@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert Nomor Handphone harus diisi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e546a1e2-978c-49b8-bfa0-9dc6d4112f6f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Alert Less than 3 character will display below field Nama Mama</description>
+   <name>Reg BOP - Invalid Name (less than 3 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a968bc27-35a1-4666-9a76-2fb994ad5588</testCaseGuid>
+</TestCaseEntity>

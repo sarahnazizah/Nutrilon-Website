@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Alert Less than 3 character will display below field Nama Mama</description>
+   <name>Reg Hamil header - Invalid Name (less than 3 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f49f000b-3d12-44ce-985d-54194f19e16e</testCaseGuid>
+</TestCaseEntity>

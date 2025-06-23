@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify navigation to produk parent page</description>
+   <name>Entry to Produk page from Header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>434c5d60-d18a-4d34-b0ea-b83776796b55</testCaseGuid>
+</TestCaseEntity>

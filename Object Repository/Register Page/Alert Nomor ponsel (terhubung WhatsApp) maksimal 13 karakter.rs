@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Nomor ponsel (terhubung WhatsApp) maksimal 13 karakter</name>
+   <tag></tag>
+   <elementGuidId>2f693b9a-0247-4061-aa33-d379593af50d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Nomor ponsel (terhubung WhatsApp) maksimal 13 karakter' or . = 'Nomor ponsel (terhubung WhatsApp) maksimal 13 karakter')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4ddab85e-acd8-4f55-8673-d2bdccc4ba34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>437d63d5-5942-43bf-8ab6-83dc971bb554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor ponsel (terhubung WhatsApp) maksimal 13 karakter</value>
+      <webElementGuid>0f3331f8-98bc-4015-a987-947a5504fa02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>7b578f65-fce0-4e46-8210-064e511a877c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nomor ponsel (terhubung WhatsApp) maksimal 13 karakter' or . = 'Nomor ponsel (terhubung WhatsApp) maksimal 13 karakter')]</value>
+      <webElementGuid>93eca053-b38b-4bce-bed8-fa38111c8cc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

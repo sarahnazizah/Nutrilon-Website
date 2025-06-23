@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Tools Tes Potensi Caesar</name>
+   <tag></tag>
+   <elementGuidId>3c044d3f-b108-4cfd-8e97-879032be2a3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div/ul/div[3]/li/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a271b829-6d1b-4885-a82a-66f0b00026db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>66d004e7-ce55-4731-b739-105e8781681a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tools/tes-potensi-caesar</value>
+      <webElementGuid>9b857b18-a003-49dc-a46c-798aaabba8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tes Potensi Caesar</value>
+      <webElementGuid>4c12979f-6fa9-4ce5-b01b-396a41b3c405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col col-lg-9 p-0&quot;]/ul[@class=&quot;navbar-nav desktop header__tool text-center&quot;]/div[@class=&quot;navbar-nav__menu&quot;]/li[@class=&quot;nav-item dropdown header__dropdown mb-0 mt-0 new-navbar&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>a98c58e5-8647-46d7-9e71-55a8031e5511</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div/ul/div[3]/li/div[2]/a</value>
+      <webElementGuid>ab6cf6c6-8219-4874-90fb-2646adbbc760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tes Potensi Caesar')]</value>
+      <webElementGuid>8cd820ac-fc99-4b7f-8664-424917ec1933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::a[2]</value>
+      <webElementGuid>afc477b0-437f-4931-bd54-32788843dedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrinidrink'])[1]/following::a[4]</value>
+      <webElementGuid>8665eb12-3024-4861-8a0a-1f4077fdbd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Immune Checker'])[1]/preceding::a[1]</value>
+      <webElementGuid>c0dba01c-5d90-4dc1-8f0e-7fe453265fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/preceding::a[2]</value>
+      <webElementGuid>f263da1b-49c6-45bd-b273-a788e2858e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tes Potensi Caesar']/parent::*</value>
+      <webElementGuid>2d2a6599-1ea0-4ee3-92a5-6dd3f7c62c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tools/tes-potensi-caesar')]</value>
+      <webElementGuid>44ae370a-af43-4347-8736-7438da477561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li/div[2]/a</value>
+      <webElementGuid>965b4ffe-0d21-4c5b-a0ba-47014dc3db3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tools/tes-potensi-caesar' and (text() = 'Tes Potensi Caesar' or . = 'Tes Potensi Caesar')]</value>
+      <webElementGuid>97cd1a43-0453-484a-b614-7b212659644f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

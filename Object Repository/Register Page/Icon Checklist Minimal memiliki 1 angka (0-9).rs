@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon Checklist Minimal memiliki 1 angka (0-9)</name>
+   <tag></tag>
+   <elementGuidId>d6111915-646e-404b-b5b0-e570a3be2f81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popover-password']/ul/li/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c44af58f-02c8-4128-9c03-e43584162549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check</value>
+      <webElementGuid>14a6a020-62b3-4412-ad30-1e6a79c8167c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8402b7a3-d06c-4030-9dcb-67f7e5053602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover-password&quot;)/ul[@class=&quot;list-unstyled&quot;]/li[1]/span[@class=&quot;one-number&quot;]/i[@class=&quot;fa fa-check&quot;]</value>
+      <webElementGuid>3b277abb-af30-4cb4-9849-d2aff48f7461</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover-password']/ul/li/span/i</value>
+      <webElementGuid>589eb926-7f8b-4553-9df3-9fadc3d5fa19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>21a56d22-b1f0-426e-aa54-786a33bb0a09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

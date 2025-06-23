@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nomor HP - Less than 10 character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e01dd6b-442d-4588-b000-bfcdb4c61d7c</testCaseGuid>
+</TestCaseEntity>

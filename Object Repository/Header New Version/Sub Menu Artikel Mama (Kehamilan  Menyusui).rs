@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Artikel Mama (Kehamilan  Menyusui)</name>
+   <tag></tag>
+   <elementGuidId>0fe7cc34-3942-4c58-984b-27e62a6a1462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div/ul/div/li/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eb155eaf-ef63-4c06-8342-3641d1f5928f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>2cfcaa84-c419-4e1f-8ff8-da35f8df0153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel?kategori=mama</value>
+      <webElementGuid>81f6bd8f-a6e8-49e4-89b0-bec619c51cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mama (Kehamilan &amp; Menyusui)</value>
+      <webElementGuid>3d06f10c-378f-4c60-a003-e154ff1e12fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col col-lg-9 p-0&quot;]/ul[@class=&quot;navbar-nav desktop header__tool text-center&quot;]/div[@class=&quot;navbar-nav__menu&quot;]/li[@class=&quot;nav-item dropdown header__dropdown mb-0 mt-0 new-navbar&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>0a9ec64e-a824-4c40-8e3a-05132c5525bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div/ul/div/li/div[2]/a</value>
+      <webElementGuid>6f15c2cb-9a5b-41a0-ab0d-2dfa88c28f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mama (Kehamilan &amp; Menyusui)')]</value>
+      <webElementGuid>933a4345-ae3c-4ee0-9df4-6118a4c8cf83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[1]/following::a[2]</value>
+      <webElementGuid>40ec2157-74c4-420b-8875-a92dd14a1682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::a[3]</value>
+      <webElementGuid>eae77bfe-69be-42d7-be71-4a8824a16238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayi (0-12 Bulan)'])[1]/preceding::a[1]</value>
+      <webElementGuid>07161507-92a3-40e3-9172-484f908fa2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak (1-5 Tahun)'])[1]/preceding::a[2]</value>
+      <webElementGuid>1a76d198-00a4-4a8d-8919-54d2d3d91a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mama (Kehamilan &amp; Menyusui)']/parent::*</value>
+      <webElementGuid>ec88f352-a6bf-42a5-8ef8-ef0c2eb5d4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/artikel?kategori=mama')]</value>
+      <webElementGuid>78dabe47-0e05-42ec-ac39-34258e71019e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/a</value>
+      <webElementGuid>c22190c3-d5aa-4d10-b8c7-0e53c47826c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel?kategori=mama' and (text() = 'Mama (Kehamilan &amp; Menyusui)' or . = 'Mama (Kehamilan &amp; Menyusui)')]</value>
+      <webElementGuid>99c9d7d7-ac50-4ad2-ba57-7cdb2935f38d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

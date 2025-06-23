@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>X button on Modal Popup</name>
+   <tag></tag>
+   <elementGuidId>2291fb79-349c-4e61-8a85-b7dd193c27e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-header.hader-bottom-none > button.close > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-otp-member-hp-not-found']/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b0f07d8a-09b5-4399-9582-6fdb5b87e90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0622b9d1-a408-48fa-9970-efc3fba31f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>e5363ee1-2752-4f44-b536-3ceabf364053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-otp-member-hp-not-found&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content p-4&quot;]/div[@class=&quot;modal-header hader-bottom-none&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>67dd33a0-daa5-4eeb-8772-f8dd43e11ecb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-otp-member-hp-not-found']/div/div/div/button/span</value>
+      <webElementGuid>275d0768-92d9-4364-af45-aef0ee0de9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut.'])[1]/following::span[1]</value>
+      <webElementGuid>e94070f2-ac60-4081-bb69-f72d6f50ee4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim OTP'])[1]/following::span[1]</value>
+      <webElementGuid>f63873b4-0b77-4bc9-b761-6cc13d3f86c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mama,'])[1]/preceding::span[1]</value>
+      <webElementGuid>b9caec16-8c2f-423b-9d87-fdf28d686a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTER'])[1]/preceding::span[1]</value>
+      <webElementGuid>9e55473c-e401-4eab-bb80-58f81a3f2324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/button/span</value>
+      <webElementGuid>5c3b3c53-b845-4515-8450-817b4fa1594e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>59fb7e9a-88fa-4bf7-89ba-435025add021</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

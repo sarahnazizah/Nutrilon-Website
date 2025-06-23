@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert phone number less than 10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86f07d38-fbcc-4e62-8d71-97ce931b4868</testCaseGuid>
+</TestCaseEntity>

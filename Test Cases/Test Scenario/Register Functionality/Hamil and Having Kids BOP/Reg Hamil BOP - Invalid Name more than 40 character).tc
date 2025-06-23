@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil BOP - Invalid Name more than 40 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>129bff94-d7f7-48a3-9334-7b6ae5792fe5</testCaseGuid>
+</TestCaseEntity>

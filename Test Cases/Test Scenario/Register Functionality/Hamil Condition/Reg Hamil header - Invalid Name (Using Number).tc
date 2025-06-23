@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil header - Invalid Name (Using Number)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a30c3bf0-4250-4bc5-a08d-94a08895438e</testCaseGuid>
+</TestCaseEntity>

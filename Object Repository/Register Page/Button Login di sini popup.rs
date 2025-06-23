@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Login di sini popup</name>
+   <tag></tag>
+   <elementGuidId>f6a7ddc2-30df-43f0-a622-a945cdb6d347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-failed-register']/div/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.success-verification</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b3d9078d-2068-4d89-b91b-03f44a6136eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/membership/login</value>
+      <webElementGuid>d5175135-b075-4009-9cac-07489c9409b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary success-verification</value>
+      <webElementGuid>0561f126-a6ff-48e9-91b8-7f2bbd55f75f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login di sini</value>
+      <webElementGuid>ea2cb065-c512-4ebf-bdf8-9157f3cb3e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-failed-register&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content text-center&quot;]/div[@class=&quot;modal-footer&quot;]/a[@class=&quot;btn btn-primary success-verification&quot;]</value>
+      <webElementGuid>5c370b44-dea4-4b6b-a270-69045b3d2ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-failed-register']/div/div/div[4]/a</value>
+      <webElementGuid>f05f3f5f-9c90-4fc0-9efe-972a47a0fa42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Login di sini')]</value>
+      <webElementGuid>1def5dcb-726b-4e2b-b8de-ea8cfbf1444a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Kode OTP'])[1]/following::a[1]</value>
+      <webElementGuid>c4f408c5-0062-4b95-a973-993a84aad55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjadi Kesalahan!'])[1]/following::a[1]</value>
+      <webElementGuid>2082750d-4801-4efd-b6f7-82ac8832bec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asi terbaik bagi bayi'])[1]/preceding::a[1]</value>
+      <webElementGuid>7039b50a-c025-4e6f-869c-4f1c3a24aa0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Nutricia'])[1]/preceding::a[1]</value>
+      <webElementGuid>5db66efc-11cb-49f4-bb1e-330c06cd6b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login di sini']/parent::*</value>
+      <webElementGuid>d4f6d722-893e-497b-9a69-020c589916b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/membership/login')])[3]</value>
+      <webElementGuid>f9b35e07-d1b7-4343-b286-e9267595ac9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>7e6fd678-b0e6-4513-a679-bd9751cb374a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/membership/login' and (text() = 'Login di sini' or . = 'Login di sini')]</value>
+      <webElementGuid>c423dc4b-ba4a-4e9f-afcd-80e3e1293595</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

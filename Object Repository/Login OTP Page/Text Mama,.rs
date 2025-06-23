@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Mama,</name>
+   <tag></tag>
+   <elementGuidId>3e41d655-a0c9-4047-b8ce-2e206945703a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-otp-member-hp-not-found']/div/div/div[3]/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>f1dc0005-2390-4a91-96f9-aba5c9eab969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mama,</value>
+      <webElementGuid>f111f485-8041-4136-a6f6-8158852ffc13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-otp-member-hp-not-found&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content p-4&quot;]/div[@class=&quot;modal__error-body text-center&quot;]/h4[1]</value>
+      <webElementGuid>59b93cd8-91c0-4e79-8bb9-d84c4bce075f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-otp-member-hp-not-found']/div/div/div[3]/h4</value>
+      <webElementGuid>56725f38-7d31-4918-a430-c51fb5a81236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut.'])[1]/following::h4[1]</value>
+      <webElementGuid>64986b05-3bdd-40f2-843e-da89c53a31cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim OTP'])[1]/following::h4[1]</value>
+      <webElementGuid>1fb26bbb-6637-4269-b4be-ec7d99ae64dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTER'])[1]/preceding::h4[1]</value>
+      <webElementGuid>9adabe6a-52a5-4db4-b681-d9cf3630e7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok, saya mengerti!'])[1]/preceding::h4[1]</value>
+      <webElementGuid>f752cacc-ef7c-4b76-9f24-02492b99897b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mama,']/parent::*</value>
+      <webElementGuid>6969b3ed-b249-4482-9bf7-0e3715adf630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>ae2ab776-41af-4687-bc7a-5120e32e6320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Mama,' or . = 'Mama,')]</value>
+      <webElementGuid>914b8f5f-3be1-43c3-b2f1-b09306b7bf49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

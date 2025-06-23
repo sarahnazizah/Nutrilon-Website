@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil GUM - Invalid Phone Number less than 10 character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af806b45-a2cf-4c6c-9f0f-0c4032fc1a67</testCaseGuid>
+</TestCaseEntity>

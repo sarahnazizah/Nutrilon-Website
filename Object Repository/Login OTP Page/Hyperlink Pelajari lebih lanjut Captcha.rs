@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hyperlink Pelajari lebih lanjut Captcha</name>
+   <tag></tag>
+   <elementGuidId>987e657f-4778-4618-a8e7-b7fe436a2af7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-4']/div/div/div[2]/div[4]/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.label-recaptcha > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b8440014-996a-417f-96c1-20a846577979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://google.com/recaptcha</value>
+      <webElementGuid>66b34f51-3333-4dfd-abdc-8786e607e4a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6a33c48b-3230-4b49-aa89-b1438abe0ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pelajari lebih lanjut.</value>
+      <webElementGuid>64f949c2-5e66-4ee7-9aa0-ffaf36a91e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-4&quot;)/div[@class=&quot;row login__wrapper&quot;]/div[@class=&quot;col-10 offset-1 col-lg-10 offset-lg-2&quot;]/div[@class=&quot;content__card rounded&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 col-md-8 offset-2 offset-md-2 label-recaptcha-wrapper&quot;]/p[@class=&quot;label-recaptcha&quot;]/a[1]</value>
+      <webElementGuid>b6de2d98-6241-4f18-9ca6-e80627915e64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div[4]/div/p[2]/a</value>
+      <webElementGuid>d5a5fd3c-e4ed-4374-ac1b-887f7aaf7dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pelajari lebih lanjut.')]</value>
+      <webElementGuid>fa81b241-269f-46ad-9627-5d86ecd2de2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim OTP'])[1]/following::a[1]</value>
+      <webElementGuid>6792c3ba-fc86-4c29-ac4f-449eb215afa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::a[1]</value>
+      <webElementGuid>527c5ef7-2576-4ce8-bf2e-58eec5c7f506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asi terbaik bagi bayi'])[1]/preceding::a[1]</value>
+      <webElementGuid>ee414c25-0117-4434-ae89-4da9895ac908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Nutricia'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7be01c9-02c4-4b01-aaae-2bc63b1bb35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pelajari lebih lanjut.']/parent::*</value>
+      <webElementGuid>00ce8063-b719-4561-89ed-0370c8809c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://google.com/recaptcha')]</value>
+      <webElementGuid>37890e4a-139c-4098-913e-86b485156192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>b7e34713-efd7-48ed-9203-bfda663b8743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://google.com/recaptcha' and (text() = 'Pelajari lebih lanjut.' or . = 'Pelajari lebih lanjut.')]</value>
+      <webElementGuid>c8bd1ed5-3d46-4d5a-9f3b-0c44681debb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

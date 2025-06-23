@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil header - Invalid Phone Number more than 13 character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c06ac9a3-ecb2-4270-9808-36f94860ab92</testCaseGuid>
+</TestCaseEntity>

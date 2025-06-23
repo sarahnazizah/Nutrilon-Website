@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negative case, to ensure alert will display below each field</description>
+   <name>Login empty form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f381ff8a-c2b1-47ce-8b03-adb431ba413a</testCaseGuid>
+</TestCaseEntity>

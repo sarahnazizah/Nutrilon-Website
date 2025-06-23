@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Breadcrumb Home</name>
+   <tag></tag>
+   <elementGuidId>ccc5348f-34e7-4dc6-b0e4-795945ec2e96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Home')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c48a997b-0ac4-4222-a600-029fffed8aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>a77ce1c7-a7c8-44eb-8713-554513a52cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>24a75fe2-c118-4509-86ee-f697078cfbb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>8cc8d85d-44a8-4260-be3f-274b59a70e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Home                </value>
+      <webElementGuid>210ed5b0-fe0a-4e03-80a8-b9ba26cc30db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;main-parent-product nutriclub-content-product&quot;]/div[@class=&quot;pimcore_area_breadcrumbs pimcore_area_content&quot;]/div[@class=&quot;breadcrumbs new-design&quot;]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;breadcrumb-item&quot;]/a[@class=&quot;active&quot;]</value>
+      <webElementGuid>edbdeb9f-c943-4851-b7e5-f4812a46b53e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Home')]</value>
+      <webElementGuid>f0d523a3-19c7-4d38-82d8-a004be8896e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutriclub Product'])[1]/following::a[1]</value>
+      <webElementGuid>8b94d272-2fd1-4c1c-899c-768ae7c3e6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya Hapus'])[1]/following::a[1]</value>
+      <webElementGuid>b7c025e4-23a0-456a-9e87-a90caaabddd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[3]/preceding::a[1]</value>
+      <webElementGuid>6427f495-9b5a-4f45-93bd-c91cf407f56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrilon Royal 3'])[2]/preceding::a[2]</value>
+      <webElementGuid>37e42b6e-2167-4e4a-8115-5cb96687d252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>0fd68a2a-9a3c-4ff9-8456-3bcf31d3759a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[22]</value>
+      <webElementGuid>0f0fcd44-970c-4e03-abd6-1074ed23cb69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li/a</value>
+      <webElementGuid>c66d23e0-698e-4a88-aa0e-74dabc7df5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = '
+                    Home                ' or . = '
+                    Home                ')]</value>
+      <webElementGuid>bab724c3-3465-4d20-a9d8-1ef03d2128f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Nama lengkap minimal 3 karakter</name>
+   <tag></tag>
+   <elementGuidId>473568df-b44b-4aed-9f87-761855c9d262</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee832089-b4e7-488f-9aed-23c8d0eb540c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>fe5e914f-d964-486a-ae7a-f8d71fab23a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama lengkap minimal 3 karakter</value>
+      <webElementGuid>0c02add5-4abd-4c46-aa1d-5ab50dab98e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content&quot;]/div[@class=&quot;content__input mb-2&quot;]/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>bbe96b4f-2b05-4396-9b71-9bd4ac2c29a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div/div/span</value>
+      <webElementGuid>9066c18e-7569-42ab-b598-d7c4a721aa07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap Mama'])[1]/following::span[1]</value>
+      <webElementGuid>a42e4c21-9117-4e1a-8c4d-72b07346f7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya Hapus'])[1]/following::span[1]</value>
+      <webElementGuid>6a40e425-7162-493b-803b-0e18eaa5a55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone Mama'])[1]/preceding::span[1]</value>
+      <webElementGuid>2bb27dad-a6bd-4eb4-ba8f-cbb2f3404b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor ponsel (terhubung WhatsApp) wajib diisi'])[1]/preceding::span[1]</value>
+      <webElementGuid>85699379-09f0-43ab-9fa0-ad37402a0f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama lengkap minimal 3 karakter']/parent::*</value>
+      <webElementGuid>2a5dfa13-c3bf-4fc5-9fb4-ef6178c681da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span</value>
+      <webElementGuid>b32a99fd-dba2-4d15-8b96-4d8db4875bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nama lengkap minimal 3 karakter' or . = 'Nama lengkap minimal 3 karakter')]</value>
+      <webElementGuid>1bf07b3b-5ea3-41e1-82dd-ac09059cb7c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

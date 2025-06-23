@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label Apakah Mama Punya Kode Referral  Event</name>
+   <tag></tag>
+   <elementGuidId>4b52aef5-2b44-4f66-bb4d-f5f0c5694423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div[5]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7a40f949-8858-4f9f-921a-abd7d32fec2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>fullname</value>
+      <webElementGuid>f1a8b698-3ee3-402f-9882-0ddd798b94d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-label center</value>
+      <webElementGuid>4912faa6-e5c6-4674-a07b-ff898ee856e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apakah Mama Punya Kode Referral / Event?</value>
+      <webElementGuid>48f7fc54-95a2-44cc-863e-6392a9ef168b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;content__input&quot;]/div[@class=&quot;content__input-wrapper&quot;]/label[@class=&quot;content-label center&quot;]</value>
+      <webElementGuid>44e66581-3c0b-4a4a-ae50-2e352824444c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div[5]/div/div/label</value>
+      <webElementGuid>6aed3f28-c54d-4866-aca6-80ca03866aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal lahir anak wajib diisi'])[1]/following::label[1]</value>
+      <webElementGuid>3fd22cea-9fa8-4734-91fc-e1c817c24578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir Anak'])[1]/following::label[1]</value>
+      <webElementGuid>40aa8afd-a22d-4b36-b52d-9da59d24810c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Referral'])[1]/preceding::label[2]</value>
+      <webElementGuid>c5ca487e-a65a-4da6-b08d-12b1755c5c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Event'])[1]/preceding::label[3]</value>
+      <webElementGuid>5eb32e0c-251e-4f13-9f4c-d0ccd2ce4b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apakah Mama Punya Kode Referral / Event?']/parent::*</value>
+      <webElementGuid>c172aea1-5470-4cec-b8d4-aa90ee38272f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/label</value>
+      <webElementGuid>efd428f6-6be3-46a0-b179-dbb07af04d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Apakah Mama Punya Kode Referral / Event?' or . = 'Apakah Mama Punya Kode Referral / Event?')]</value>
+      <webElementGuid>6c15c7e8-6d70-44b3-aa2c-94260f95ebc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>URL Article</description>
+   <name>Article Url</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>74aceacc-2d60-4ce6-b6ff-4ee396a58c0c</dataFileGUID>
+   <dataSourceUrl>C:\Users\Sarah\Downloads\nutriclub artikel sitemap.xml.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

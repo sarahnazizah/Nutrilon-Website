@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Daftar Sekarang</name>
+   <tag></tag>
+   <elementGuidId>8471a9ba-ac0b-4195-8983-b8a724a643e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-lg.btn-regist</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='keuntungan-daftar-landing']/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ffc72ca-2396-44ea-9026-f88e7674a9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account/register</value>
+      <webElementGuid>16254a82-a9b8-42cc-87b4-4b04c612b8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-regist</value>
+      <webElementGuid>8c3af2d5-721b-475a-b89a-cfaa534423b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Sekarang</value>
+      <webElementGuid>95042c54-4994-44c1-92da-86e39922c026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;keuntungan-daftar-landing&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;card__category-detail text-center&quot;]/a[@class=&quot;btn btn-lg btn-regist&quot;]</value>
+      <webElementGuid>4ca318fd-79e2-4a7e-8862-155e04769211</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='keuntungan-daftar-landing']/div/div[3]/a</value>
+      <webElementGuid>1ef38e03-7514-41b5-b4ea-8578fa46a5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Sekarang')]</value>
+      <webElementGuid>d4f00027-d02d-4596-a43d-9f76518e54eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hadiah untuk Mama dan si Kecil'])[1]/following::a[1]</value>
+      <webElementGuid>29e5aad0-85f0-4489-9400-a33f0bc297ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Winning Parenting Content'])[1]/following::a[1]</value>
+      <webElementGuid>575540d3-d598-48a9-b5d6-adfe36442586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asi terbaik bagi bayi'])[1]/preceding::a[1]</value>
+      <webElementGuid>7484d2c0-191a-40df-99eb-aeb25e7fac0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::a[9]</value>
+      <webElementGuid>e29a3201-752e-425e-95e8-8f996f6670bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Sekarang']/parent::*</value>
+      <webElementGuid>775954f5-b38c-48c5-9131-3a935723abda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/account/register')]</value>
+      <webElementGuid>075c51ed-7ecd-45f6-aa60-8eb4139e7dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>73a6e264-346a-4403-bef7-c5ed8c7821e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/account/register' and (text() = 'Daftar Sekarang' or . = 'Daftar Sekarang')]</value>
+      <webElementGuid>4669568e-ca26-46d1-99a7-650432a919b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

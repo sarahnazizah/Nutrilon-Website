@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Klik di Sini Hadiah untuk Mama dan si Kecil</name>
+   <tag></tag>
+   <elementGuidId>01238f60-0134-4960-9cb5-6eb3b9f76bed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[16]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f96fb73a-e7db-4ee4-a5d9-e79c934d2dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>187ae839-05f8-41c0-a31f-6a47df18e1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn list-fitur-cta-fitur d-block bg-sky-400 text-white text-center w-135px p-1 rounded-1 text-sm-12px</value>
+      <webElementGuid>3f4778bd-e2b5-432d-b920-dcfdb772d0dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location.href='/membership/rewards-guest';</value>
+      <webElementGuid>c0f2b06e-e166-4cfd-b508-5c46b6d706e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Klik di Sini                            </value>
+      <webElementGuid>cf805eb5-9e4b-4d83-82ed-0db1910a7cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-fitur-list-home-membership&quot;)/div[@class=&quot;container-fluid py-3 px-0 px-md-3&quot;]/div[@class=&quot;row list-fitur-area d-flex justify-content-center&quot;]/div[@class=&quot;col col-md-5 list-fitur-item-fitur pos-relative mb-1 mb-md-5 mx-0&quot;]/div[@class=&quot;list-fitur-content-fitur bg-white rounded-3 shadow-sm py-3 pl-4 pr-3 w-85 ml-auto&quot;]/div[@class=&quot;list-fitur-cta-fitur-area w-90 ml-auto pl-2&quot;]/button[@class=&quot;btn list-fitur-cta-fitur d-block bg-sky-400 text-white text-center w-135px p-1 rounded-1 text-sm-12px&quot;]</value>
+      <webElementGuid>114c92ba-f867-47ac-8b31-4133e9e72f6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[16]</value>
+      <webElementGuid>93a030bf-0ec3-4dda-9fcd-ab2f15c42ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-fitur-list-home-membership']/div/div[2]/div[4]/div[2]/div[3]/button</value>
+      <webElementGuid>ecada669-98e7-4367-8fd0-a4b19f459f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik di Sini'])[3]/following::button[1]</value>
+      <webElementGuid>fbcae64a-f363-4f8e-9ad3-2658f0b03c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman Belanja Eksklusif Nutrishop'])[1]/preceding::button[1]</value>
+      <webElementGuid>9c012f8b-f406-4a21-87fa-44a66c88b06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik di Sini'])[5]/preceding::button[1]</value>
+      <webElementGuid>2541be23-8e4a-4120-ba8d-db622deae808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[3]/button</value>
+      <webElementGuid>61afce5a-cc43-4288-a55d-a7b7043a54ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                Klik di Sini                            ' or . = '
+                                Klik di Sini                            ')]</value>
+      <webElementGuid>a76442ba-85bc-40f6-a98d-d63c41b79c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

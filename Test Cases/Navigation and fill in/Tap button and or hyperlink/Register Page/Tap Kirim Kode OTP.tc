@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tap Kirim Kode OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>502cf319-42a4-45dc-9cd1-a94bb914ca60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user able to login via membership menu</description>
+   <name>Login via Membership Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>467b7da1-7ec4-44c9-86b2-346f643f924c</testCaseGuid>
+</TestCaseEntity>

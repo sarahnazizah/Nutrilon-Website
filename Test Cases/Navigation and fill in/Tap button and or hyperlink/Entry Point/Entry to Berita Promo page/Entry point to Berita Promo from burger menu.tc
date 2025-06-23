@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigation to Berita Promo</description>
+   <name>Entry point to Berita Promo from burger menu</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cddd6bc0-2d55-486d-9a38-75597ff57d09</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify navigation to artikel page</description>
+   <name>Entry Point to Artikel from Header</name>
+   <tag>Tap Menu</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3867dd02-6d0a-47d3-a455-7f46fe7bb09e</testCaseGuid>
+</TestCaseEntity>

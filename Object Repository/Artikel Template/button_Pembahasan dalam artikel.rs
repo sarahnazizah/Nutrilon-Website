@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pembahasan dalam artikel</name>
+   <tag></tag>
+   <elementGuidId>bd968702-c870-4c73-a58a-2f5b0253c8dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.accordion__source-btn.btn-collapse-content-list.btn.w-100.text-left.collapsed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>66795b9d-5c6f-4df7-b428-06725eeeeb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion__source-btn btn-collapse-content-list btn w-100 text-left collapsed</value>
+      <webElementGuid>a2f9c95c-1f5a-450f-b860-9b4b6027fa85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9ad47f7-a896-42fd-8d86-52ded2e4dccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>2223492c-6791-434f-a336-69d9ce0e55e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#content__list</value>
+      <webElementGuid>3bc0f3f2-61b4-4705-aedd-0e100c9fb767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>97a7b626-d340-4865-9fdc-dc971d74374b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>content__list</value>
+      <webElementGuid>7f581316-4bf2-42ad-8df8-091742313e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Pembahasan dalam artikel :                            </value>
+      <webElementGuid>1cd1e6b5-50cf-43d1-918e-b0c3061d70b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-list__toggle&quot;)/div[@class=&quot;container detail-article content-list&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-0&quot;]/button[@class=&quot;accordion__source-btn btn-collapse-content-list btn w-100 text-left collapsed&quot;]</value>
+      <webElementGuid>fa62238a-ff1a-450d-8bca-09262b08ce53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>f56086d8-e121-4e0d-a41e-ae16a0629ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-list__toggle']/div/div/div/button</value>
+      <webElementGuid>a83fd886-6a70-401c-9c8f-fd30a261f03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Penulis'])[1]/following::button[1]</value>
+      <webElementGuid>1106b9ed-70ca-4126-99cb-31c7788ad246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imunisasi Anak 2 Tahun yang Wajib dan Lanjutan'])[2]/following::button[1]</value>
+      <webElementGuid>2c3c9f79-7b1d-4ac5-b52f-06cc0dae74c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pentingnya Imunisasi di Usia 2 Tahun'])[1]/preceding::button[1]</value>
+      <webElementGuid>bf91919b-fc46-449e-b1c6-89880354fc44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Imunisasi Anak 2 Tahun Sesuai IDAI 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>6a012a80-c0e6-47bb-aa1a-d57e45daa94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pembahasan dalam artikel :']/parent::*</value>
+      <webElementGuid>661c4c15-6ed1-4e1c-831c-005b8a4874f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>1e31943a-2e50-4960-bd4d-b9f0f1a504a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                Pembahasan dalam artikel :                            ' or . = '
+                                Pembahasan dalam artikel :                            ')]</value>
+      <webElementGuid>35c54bcd-85da-4bed-ae80-134f493a72cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

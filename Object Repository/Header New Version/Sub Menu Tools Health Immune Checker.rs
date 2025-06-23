@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Tools Health Immune Checker</name>
+   <tag></tag>
+   <elementGuidId>067d3e8a-4577-4c87-819a-226634516a5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div/ul/div[3]/li/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>33a0ff67-368c-49ab-a202-7a8cba21f12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>1f0e4407-0171-43ba-b014-20fabf2dd737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tools/health-immune-checker</value>
+      <webElementGuid>2af7797e-5dfc-45ed-bef8-6fecee5a1639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Health Immune Checker</value>
+      <webElementGuid>b0b38618-7bbf-4606-923f-e8748c37a4cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col col-lg-9 p-0&quot;]/ul[@class=&quot;navbar-nav desktop header__tool text-center&quot;]/div[@class=&quot;navbar-nav__menu&quot;]/li[@class=&quot;nav-item dropdown header__dropdown mb-0 mt-0 new-navbar&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>13b01995-e9b4-40b6-96f4-3f3c3f3b4750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div/ul/div[3]/li/div[2]/a[2]</value>
+      <webElementGuid>9549ba9f-4d9c-43d1-ab92-d7b9c243b7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Health Immune Checker')]</value>
+      <webElementGuid>9e709d52-fd99-4974-a200-add61d7d5ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tes Potensi Caesar'])[1]/following::a[1]</value>
+      <webElementGuid>8b1e52b0-e0be-4ddb-9e15-ce3fd5bf7d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::a[3]</value>
+      <webElementGuid>f7c0717d-bb40-4daf-88af-ed4fd260091a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/preceding::a[1]</value>
+      <webElementGuid>d6fa39f6-f6e4-40e8-8a76-1aea536f70c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Referral Sahabat Mama'])[1]/preceding::a[3]</value>
+      <webElementGuid>efc016e6-3674-4fc9-9d8c-f419154624ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Health Immune Checker']/parent::*</value>
+      <webElementGuid>31e5bf7e-fb84-470d-9098-af33dca31b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tools/health-immune-checker')]</value>
+      <webElementGuid>af1f6778-904b-42a8-b69f-13c6552dde9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li/div[2]/a[2]</value>
+      <webElementGuid>f0d4c85d-ba91-405a-90b9-994d626fc151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tools/health-immune-checker' and (text() = 'Health Immune Checker' or . = 'Health Immune Checker')]</value>
+      <webElementGuid>a1e863e6-ab55-4989-8465-6c801284e7a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

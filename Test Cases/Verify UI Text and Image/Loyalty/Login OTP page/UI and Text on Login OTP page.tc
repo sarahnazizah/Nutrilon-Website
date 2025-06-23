@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UI and Text on Login OTP page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0e2138e-f06f-4faf-947d-4ebf36717f0f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tap Masuk via otp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4bb4c73b-650a-47a3-baa3-84c6a9cae2ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label Minggu Kehamilan Mama</name>
+   <tag></tag>
+   <elementGuidId>bb3cea91-017c-47ce-bb6f-a2ebb729ca80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content__input-wrapper.pregnant > label.content-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div[3]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0b4b6a47-97c7-44f2-b7de-867584ee2668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>fullname</value>
+      <webElementGuid>df093217-d452-43b4-8301-f4ea526ab91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-label</value>
+      <webElementGuid>0412472d-61bc-4774-9a6d-eda90ae1b4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Minggu Kehamilan Mama</value>
+      <webElementGuid>45c5659b-f47f-4141-be4d-508345ee9b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;content__input pregnant-form&quot;]/div[@class=&quot;content__input-wrapper pregnant&quot;]/label[@class=&quot;content-label&quot;]</value>
+      <webElementGuid>7a82142e-79d8-450c-b8c4-b6f8ae268c52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div[3]/div[2]/div/label</value>
+      <webElementGuid>5b2f491d-82c6-49f1-b721-39984d7895f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Mama Sedang Hamil?'])[1]/following::label[2]</value>
+      <webElementGuid>80acafa8-7530-4ce9-b08e-0646ced5fe2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usia kehamilan Mama (minggu) wajib diisi'])[1]/preceding::label[1]</value>
+      <webElementGuid>8e61449b-b122-4d37-8b52-e35a677339de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Mama Punya Anak?'])[1]/preceding::label[1]</value>
+      <webElementGuid>fa601377-816c-4210-83dc-43240fe78bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Minggu Kehamilan Mama']/parent::*</value>
+      <webElementGuid>e5990556-e2e9-4071-ba04-2bcbd729eaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>d1ee0f1d-972c-418e-9f02-5dd5238dbd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Minggu Kehamilan Mama' or . = 'Minggu Kehamilan Mama')]</value>
+      <webElementGuid>9709f165-5a31-4a91-8e54-33e2c4d540d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label Nama Lengkap Anak</name>
+   <tag></tag>
+   <elementGuidId>65dc4431-d239-4412-bc8d-77c4144d97e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.child-form > div.content__input > div.content__input-wrapper > label.content-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div[4]/div[2]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5073eaef-9057-4cc1-be07-16f160dd4169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>children_name</value>
+      <webElementGuid>ee44b623-620f-4442-bee1-5bb781055e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-label</value>
+      <webElementGuid>9b849dfe-2251-46d4-8499-521bea9ae028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Lengkap Anak</value>
+      <webElementGuid>21f7e581-feb0-4d7e-a23a-5cf3fefb374b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;child-form&quot;]/div[@class=&quot;content__input&quot;]/div[@class=&quot;content__input-wrapper&quot;]/label[@class=&quot;content-label&quot;]</value>
+      <webElementGuid>7098d753-34c4-440c-9b65-cc24dd63c9c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div[4]/div[2]/div/div/label</value>
+      <webElementGuid>6d4df429-a9e1-4ac8-b9ce-9391fc387483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Mama Punya Anak?'])[1]/following::label[2]</value>
+      <webElementGuid>57af53f7-ca3b-44fb-a2fc-d63a145e8034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usia kehamilan Mama (minggu) wajib diisi'])[1]/following::label[3]</value>
+      <webElementGuid>e0ddd011-43be-47d8-aee2-0c6c8a335734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama anak wajib diisi'])[1]/preceding::label[1]</value>
+      <webElementGuid>64e7acde-32f1-4611-9e0b-ea9abacb38c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir Anak'])[1]/preceding::label[1]</value>
+      <webElementGuid>4a17ba68-e98e-4369-adcb-e06c2ef7f809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama Lengkap Anak']/parent::*</value>
+      <webElementGuid>280ecbcf-be7d-463e-9e4d-c58d76721086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label</value>
+      <webElementGuid>8a1ef7e8-ad16-4560-9f07-701d25cb8441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nama Lengkap Anak' or . = 'Nama Lengkap Anak')]</value>
+      <webElementGuid>3aecd8c8-cfd5-4db0-b012-ea87a98ba028</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

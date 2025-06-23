@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Produk Nutrilon Royal 4</name>
+   <tag></tag>
+   <elementGuidId>732b403f-9cb7-4639-9332-741b138d3dce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div/ul/div/li[2]/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b35b925-551a-493b-a867-b2bf4af4b33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>7b6feb5b-8cbf-4e43-85b4-d0dd078238d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/produk/nutrilon-royal-4</value>
+      <webElementGuid>c8ee5a09-1c24-4f10-85b1-5b38d418c816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutrilon Royal 4</value>
+      <webElementGuid>9182c2dc-011b-4f1e-a0e5-d4e4acccc678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col col-lg-9 p-0&quot;]/ul[@class=&quot;navbar-nav desktop header__tool text-center&quot;]/div[@class=&quot;navbar-nav__menu&quot;]/li[@class=&quot;nav-item dropdown header__dropdown mb-0 mt-0 new-navbar&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>1a98a8a9-53bb-45a2-a70a-55e8562928f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div/ul/div/li[2]/div[2]/a[2]</value>
+      <webElementGuid>09dd0b14-ccdc-4604-a588-09617b7ba507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nutrilon Royal 4')]</value>
+      <webElementGuid>dd88ad72-6707-455f-900c-fcd8d5df0e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrilon Royal 3'])[1]/following::a[1]</value>
+      <webElementGuid>e9a4593f-cd68-468b-83f7-57cea5c20eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/following::a[3]</value>
+      <webElementGuid>fcd020d4-4543-40cc-81ac-0c56ecf0d333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neocate'])[1]/preceding::a[1]</value>
+      <webElementGuid>eabc8027-04cd-419e-88ea-31906f2edd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrinidrink'])[1]/preceding::a[2]</value>
+      <webElementGuid>b1565e79-7857-4409-aae5-05f71fab8668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nutrilon Royal 4']/parent::*</value>
+      <webElementGuid>f888c9e1-0e56-4ed0-ae5f-c6b5647e4345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/produk/nutrilon-royal-4')]</value>
+      <webElementGuid>f3384148-4ba8-41fd-bf82-11ae56b3b61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/a[2]</value>
+      <webElementGuid>9fdc45c7-c9f8-4c33-acd3-7c52c013f4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/produk/nutrilon-royal-4' and (text() = 'Nutrilon Royal 4' or . = 'Nutrilon Royal 4')]</value>
+      <webElementGuid>a37cb7c5-497b-412b-9ce9-6a59468535c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

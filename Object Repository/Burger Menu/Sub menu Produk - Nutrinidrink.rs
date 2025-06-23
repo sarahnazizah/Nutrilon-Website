@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub menu Produk - Nutrinidrink</name>
+   <tag></tag>
+   <elementGuidId>0c2cab27-e37e-4d1b-a1b5-6e85688c6741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrilon Royal 4'])[2]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cc5306b1-aa41-4d2c-a082-f85370193e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/produk/nutrinidrink</value>
+      <webElementGuid>72fd3ff2-43d4-4531-934f-96876743dc6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-item-list</value>
+      <webElementGuid>ce87e155-87f2-42e8-b30d-6c9ecb61e72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutrinidrink</value>
+      <webElementGuid>3f3a05d2-5b0f-48f8-a1a0-984fb188ae39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;search__results navbar-nav mobile d-block animated fadeInRight&quot;]/div[@class=&quot;hamburger-menu&quot;]/div[@class=&quot;hamburger-menu__lists-wrapper&quot;]/ul[@class=&quot;hamburger-menu__lists-item&quot;]/li[@class=&quot;hamburger-menu__item have-sub-menu&quot;]/div[@class=&quot;hamburger-menu__item sub-item show&quot;]/a[@class=&quot;sub-item-list&quot;]</value>
+      <webElementGuid>96489480-cfc5-40a1-9f00-7cb414949f82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrilon Royal 4'])[2]/following::a[1]</value>
+      <webElementGuid>45c85a22-085f-4e5f-b7e6-47107fe23d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrilon Royal 3'])[2]/following::a[2]</value>
+      <webElementGuid>0052d90d-78cd-4a5e-8096-f251b0693635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neocate Junior'])[1]/preceding::a[1]</value>
+      <webElementGuid>f0e32861-8b65-402c-bd74-5a0adf46f029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/produk/nutrinidrink')])[2]</value>
+      <webElementGuid>a24ab248-ad33-47a7-bb5c-7425adcec25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div[2]/a[3]</value>
+      <webElementGuid>dec39e33-38ee-468e-9cdd-460ceac20061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/produk/nutrinidrink' and (text() = 'Nutrinidrink' or . = 'Nutrinidrink')]</value>
+      <webElementGuid>cef6b1f2-d192-418f-bc14-54f637eb88a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

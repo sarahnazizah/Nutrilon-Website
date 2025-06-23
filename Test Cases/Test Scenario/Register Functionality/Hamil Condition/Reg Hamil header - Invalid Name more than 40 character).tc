@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg Hamil header - Invalid Name more than 40 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9481dd5-086f-4579-96ea-6aeacabb1e33</testCaseGuid>
+</TestCaseEntity>

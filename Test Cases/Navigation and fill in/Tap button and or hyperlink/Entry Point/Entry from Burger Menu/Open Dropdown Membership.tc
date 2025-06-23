@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open dropdown fitur nutriclub</description>
+   <name>Open Dropdown Membership</name>
+   <tag>Header/Desktop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f498429b-0c2c-4ddd-8079-b353a85754bc</testCaseGuid>
+</TestCaseEntity>

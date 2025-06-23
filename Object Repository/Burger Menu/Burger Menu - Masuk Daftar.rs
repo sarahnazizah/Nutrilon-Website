@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Burger Menu - Masuk Daftar</name>
+   <tag></tag>
+   <elementGuidId>c5f004ca-d226-4d75-b3f6-1aa3a5ae04a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Science Camp to Singapore'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>77994823-8d03-42b9-8c9e-e75400aa654c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk/Daftar</value>
+      <webElementGuid>5559b892-29b9-4439-9dab-437f3021d4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;search__results navbar-nav mobile d-block animated fadeInRight&quot;]/div[@class=&quot;hamburger-menu&quot;]/div[@class=&quot;hamburger-menu__lists-wrapper&quot;]/ul[@class=&quot;hamburger-menu__lists-item&quot;]/li[@class=&quot;hamburger-menu__item&quot;]/a[@class=&quot;menu-title&quot;]/span[1]</value>
+      <webElementGuid>2ca94472-340c-4398-9f23-b82ba9d55dd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Science Camp to Singapore'])[1]/following::span[1]</value>
+      <webElementGuid>34b07162-d87e-4201-a2cf-1bbdd3a381f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita dan Promo'])[1]/following::span[2]</value>
+      <webElementGuid>cf3fa638-3cc7-4a16-9ac8-259ec40df56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::span[2]</value>
+      <webElementGuid>3fabea94-1470-4fda-9851-048facc4ccbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya Hapus'])[1]/preceding::span[2]</value>
+      <webElementGuid>e105080c-5250-4fdc-9e8b-91779424a7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk/Daftar']/parent::*</value>
+      <webElementGuid>b9e5302a-94e3-414d-931b-f2250e4ea211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a/span</value>
+      <webElementGuid>4f3895fe-a04d-4491-b180-34cb78f35e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk/Daftar' or . = 'Masuk/Daftar')]</value>
+      <webElementGuid>0b6acfcd-5014-415d-bd08-50db1eea21f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

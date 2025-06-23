@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Unregistered Member</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e4e9de6-6076-4549-82f4-fcbb1aa103cd</testCaseGuid>
+</TestCaseEntity>

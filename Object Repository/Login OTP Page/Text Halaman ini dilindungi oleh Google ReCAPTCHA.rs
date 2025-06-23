@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text Halaman ini dilindungi oleh Google ReCAPTCHA</name>
+   <tag></tag>
+   <elementGuidId>2205fd43-458d-454b-9c23-479cdfa4a8e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-4']/div/div/div[2]/div[4]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.label-recaptcha</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fda38993-7787-484d-b466-3679de92be82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-recaptcha</value>
+      <webElementGuid>b79a62b0-8b80-4fcb-8a0d-cd376531d102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Halaman ini dilindungi oleh Google ReCAPTCHA.</value>
+      <webElementGuid>f14a9eb1-4240-42c9-b3a0-b2829214ecc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-4&quot;)/div[@class=&quot;row login__wrapper&quot;]/div[@class=&quot;col-10 offset-1 col-lg-10 offset-lg-2&quot;]/div[@class=&quot;content__card rounded&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 col-md-8 offset-2 offset-md-2 label-recaptcha-wrapper&quot;]/p[@class=&quot;label-recaptcha&quot;]</value>
+      <webElementGuid>222114eb-aff7-4b24-a958-ba604cfe0b05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div[4]/div/p</value>
+      <webElementGuid>effe423c-666f-4871-b9aa-1adf65b86e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim OTP'])[1]/following::p[1]</value>
+      <webElementGuid>408eb6cf-f82f-45d8-afa4-7ca8349204b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::p[1]</value>
+      <webElementGuid>f5905a87-a920-4fc8-8057-9a2e77c46eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut.'])[1]/preceding::p[1]</value>
+      <webElementGuid>60a78de3-a649-42f0-a31a-ea09c272c757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asi terbaik bagi bayi'])[1]/preceding::p[2]</value>
+      <webElementGuid>e5a08efe-b476-4fc6-b55d-1068abae138b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Halaman ini dilindungi oleh Google ReCAPTCHA.']/parent::*</value>
+      <webElementGuid>4f00c051-ee41-4b69-b5f5-da36c008bba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/p</value>
+      <webElementGuid>406d0bb3-d940-4686-bd8e-72ffd202f1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Halaman ini dilindungi oleh Google ReCAPTCHA.' or . = 'Halaman ini dilindungi oleh Google ReCAPTCHA.')]</value>
+      <webElementGuid>e1a499b6-f56e-4e59-bf27-63facad4457b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

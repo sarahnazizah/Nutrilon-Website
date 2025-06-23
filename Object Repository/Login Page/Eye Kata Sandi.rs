@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Eye Kata Sandi</name>
+   <tag></tag>
+   <elementGuidId>47b827cb-f7dc-43f5-af9f-90f7a8e55e0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye-slash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-4']/div/div/div[2]/div/div[3]/div[2]/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b6b11d92-4f68-418d-b2f6-c1a2fc49fcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye-slash</value>
+      <webElementGuid>93034121-b34c-4db9-9194-c0a82ee30051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-4&quot;)/div[@class=&quot;row login__wrapper&quot;]/div[@class=&quot;col-10 offset-1 col-lg-10 offset-lg-2&quot;]/div[@class=&quot;content__card rounded&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 offset-md-2&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;showpassword input-group-append&quot;]/span[@class=&quot;input-group-text&quot;]/i[@class=&quot;fa fa-eye-slash&quot;]</value>
+      <webElementGuid>2e65e276-5b51-4c7b-a129-830696cb3e11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div/div[3]/div[2]/div/span/i</value>
+      <webElementGuid>eafef878-07a8-49c2-9555-3ab6e9404576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>b57b0a91-edfb-4162-ba61-39184616f196</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

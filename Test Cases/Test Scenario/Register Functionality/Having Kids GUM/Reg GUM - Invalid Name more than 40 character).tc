@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg GUM - Invalid Name more than 40 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b09800a5-925c-4756-9157-91e7dd70125a</testCaseGuid>
+</TestCaseEntity>

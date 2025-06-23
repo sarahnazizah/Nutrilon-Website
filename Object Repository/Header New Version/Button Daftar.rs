@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Daftar</name>
+   <tag></tag>
+   <elementGuidId>95451cf8-5835-4b51-a853-061d9a00572e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.navbar-brand.cta-register-header.header__brand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b8169cdf-f5c9-44ce-b5e5-f57e9631e3dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/membership/register</value>
+      <webElementGuid>ceef1885-40b0-45b9-8958-96e62e3ac564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-brand cta-register-header header__brand</value>
+      <webElementGuid>ee559b62-ed51-4f42-87a1-0f5eae463ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Daftar
+                    </value>
+      <webElementGuid>2d8c9965-467e-4df5-815d-3a21da3b5d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col d-flex align-items-center justify-content-end&quot;]/a[@class=&quot;navbar-brand cta-register-header header__brand&quot;]</value>
+      <webElementGuid>8dd9b876-8c7e-445d-a13a-ecd8a7d605c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div[2]/a[2]</value>
+      <webElementGuid>b2af452d-7b54-4293-9dfb-2df74415b25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar')]</value>
+      <webElementGuid>56bf6c4b-0ec4-4a66-9d39-218c07d091e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::a[1]</value>
+      <webElementGuid>be8e189c-aa20-4a07-b6b5-14d1993aae29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Struk'])[1]/following::a[2]</value>
+      <webElementGuid>2694781f-524c-4051-8483-e08df6a6a552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[2]/preceding::a[3]</value>
+      <webElementGuid>f1417fae-f539-4a7d-928e-3243ef7f38f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[2]/preceding::a[4]</value>
+      <webElementGuid>c4488776-dbec-4e4b-938d-b6fc13d05458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>512c970a-32e5-4ef0-a792-70905b5c9b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/membership/register')]</value>
+      <webElementGuid>95dd8bc1-10c8-41ce-a182-6e5c26f59c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>ba80783e-e8a3-4bf3-a4d9-487f760585c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/membership/register' and (text() = '
+                        Daftar
+                    ' or . = '
+                        Daftar
+                    ')]</value>
+      <webElementGuid>64c16f69-8946-46ea-ad99-18d34f908b54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

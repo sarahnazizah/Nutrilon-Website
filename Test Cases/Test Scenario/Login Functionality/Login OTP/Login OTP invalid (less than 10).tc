@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login OTP invalid (less than 10)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec4d94d5-fcd6-42bc-9522-c3d65239a588</testCaseGuid>
+</TestCaseEntity>

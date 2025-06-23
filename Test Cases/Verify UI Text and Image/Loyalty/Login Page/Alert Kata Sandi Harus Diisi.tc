@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert Kata Sandi Harus Diisi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18b40dc8-510b-48b9-b410-2773352c9078</testCaseGuid>
+</TestCaseEntity>

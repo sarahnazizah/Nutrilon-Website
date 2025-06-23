@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User able to fill in phone number</description>
+   <name>Fill in phone number valid</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3bf4562e-4668-417e-8d5f-66152b32e0cb</testCaseGuid>
+</TestCaseEntity>

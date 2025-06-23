@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Klik di Sini TPGA card</name>
+   <tag></tag>
+   <elementGuidId>4f574aea-281e-4ea5-b757-0a11adbc3110</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a53d64e2-c556-4c4c-8e4c-3ceb165d1852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eab56e84-9c1d-45a0-a2d0-61cc492233a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn list-fitur-cta-fitur d-block bg-sky-400 text-white text-center w-135px p-1 rounded-1 text-sm-12px</value>
+      <webElementGuid>51dd624e-0a2c-4204-b6f6-d15b2253cf1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location.href='/the-parents-guide-academy';</value>
+      <webElementGuid>80a97d68-0e29-4bf4-8daa-03d6b51a7e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Klik di Sini                            </value>
+      <webElementGuid>b4cdf1be-bebd-4b8f-b1c6-862ba607e7bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-fitur-list-home-membership&quot;)/div[@class=&quot;container-fluid py-3 px-0 px-md-3&quot;]/div[@class=&quot;row list-fitur-area d-flex justify-content-center&quot;]/div[@class=&quot;col col-md-5 list-fitur-item-fitur pos-relative mb-1 mb-md-5 mx-0&quot;]/div[@class=&quot;list-fitur-content-fitur bg-white rounded-3 shadow-sm py-3 pl-4 pr-3 w-85 ml-auto&quot;]/div[@class=&quot;list-fitur-cta-fitur-area w-90 ml-auto pl-2&quot;]/button[@class=&quot;btn list-fitur-cta-fitur d-block bg-sky-400 text-white text-center w-135px p-1 rounded-1 text-sm-12px&quot;]</value>
+      <webElementGuid>dbb9839a-d36b-4ff9-8789-00a6034b21d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>575977b4-1af1-4b2e-b259-2b88ee362c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-fitur-list-home-membership']/div/div[2]/div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>25147d7b-9bb6-42d0-90c3-a0f451bccbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik di Sini'])[1]/following::button[1]</value>
+      <webElementGuid>0e7e09c1-7813-45ed-8ac8-9f63ad6b6496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klik di Sini'])[3]/preceding::button[1]</value>
+      <webElementGuid>9b281d58-191d-43b2-8b01-e7defa2c63d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>e882069d-67e9-42b4-bd92-805ea43c1661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                Klik di Sini                            ' or . = '
+                                Klik di Sini                            ')]</value>
+      <webElementGuid>a5b80c29-2d0b-436d-98d6-15a3c9801239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

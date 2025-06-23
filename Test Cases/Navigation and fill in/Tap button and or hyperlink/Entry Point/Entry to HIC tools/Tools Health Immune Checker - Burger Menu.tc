@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigation to tools health immune checher</description>
+   <name>Tools Health Immune Checker - Burger Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80d869fc-b6f9-4812-88ae-9da1833c5730</testCaseGuid>
+</TestCaseEntity>

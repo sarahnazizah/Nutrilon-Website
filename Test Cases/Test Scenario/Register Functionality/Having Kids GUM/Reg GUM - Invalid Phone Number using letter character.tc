@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg GUM - Invalid Phone Number using letter character</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83569a0f-98d2-4b5e-98bf-01db3984ae0e</testCaseGuid>
+</TestCaseEntity>

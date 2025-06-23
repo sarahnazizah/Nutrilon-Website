@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Artikel Mama - Tips</name>
+   <tag></tag>
+   <elementGuidId>f7712a58-f2ce-45d7-92c1-896e40791047</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Tips')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>61b490ae-0f7a-4a06-b8c6-0ab5e7d1b3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel?kategori=mama&amp;topik=tips</value>
+      <webElementGuid>a77a13d0-0987-46e1-b441-6b4628186f2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-item fading</value>
+      <webElementGuid>09abfbae-0a15-429f-9959-1c5db8c46bf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tips</value>
+      <webElementGuid>48a81571-3aa3-4ffc-9ccd-ada88e6fe3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;search__results navbar-nav mobile d-block animated fadeInRight&quot;]/div[@class=&quot;hamburger-menu&quot;]/div[@class=&quot;hamburger-menu__lists-wrapper&quot;]/ul[@class=&quot;hamburger-menu__lists-item&quot;]/li[@class=&quot;hamburger-menu__item have-sub-menu&quot;]/div[@class=&quot;hamburger-menu__item sub-item show&quot;]/div[@class=&quot;sub-item-list child list-item-level-2&quot;]/ul[@class=&quot;list-item-wrapper parent list-item-level-3&quot;]/li[@class=&quot;list-item child list-item-level-3&quot;]/a[@class=&quot;sub-item fading&quot;]</value>
+      <webElementGuid>058a1643-5742-4ce8-8204-824ffbc41cf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tips')]</value>
+      <webElementGuid>e34d4a3b-4844-4b78-8cac-024483ef2003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrisi'])[1]/following::a[1]</value>
+      <webElementGuid>cd9a73af-ddcd-4cbe-949d-6abb72c199d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perkembangan Janin'])[1]/following::a[2]</value>
+      <webElementGuid>4e10a45a-4f53-4a5c-8c1f-f2db48363610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayi (0-12 Bulan)'])[2]/preceding::a[1]</value>
+      <webElementGuid>f535c67b-ee62-4cd7-845c-165564d93717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imunitas'])[2]/preceding::a[2]</value>
+      <webElementGuid>48bfb42f-f61d-4619-a3ff-d00859c8bdb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tips']/parent::*</value>
+      <webElementGuid>2b3d9a9b-3cc3-4b44-9fc0-5a8edf7abfe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/artikel?kategori=mama&amp;topik=tips')]</value>
+      <webElementGuid>6a8bfdeb-ad85-49cf-ab58-c652a065dcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>8624cb6d-fc6f-479a-b01e-28196e2fff3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel?kategori=mama&amp;topik=tips' and (text() = 'Tips' or . = 'Tips')]</value>
+      <webElementGuid>dfdeb10a-5bd1-47ff-a3b2-efd5e9d47c04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

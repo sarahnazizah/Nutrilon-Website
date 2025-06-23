@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Menu Artikel Anak - Kesehatan</name>
+   <tag></tag>
+   <elementGuidId>b96bb413-4e9b-4a87-a90c-3ca4b9bf8c0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Kesehatan')])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7722f9a2-b8e4-4d77-8edf-4694421b9e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/artikel?kategori=anak&amp;topik=kesehatan</value>
+      <webElementGuid>0e3c0914-fc21-4389-99c1-b49475c215fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-item fading</value>
+      <webElementGuid>d2b5ff99-b74a-43c0-bda7-f4db545176fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kesehatan</value>
+      <webElementGuid>a8327dcd-223a-4903-b33e-87bf36a580f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;search__results navbar-nav mobile d-block animated fadeInRight&quot;]/div[@class=&quot;hamburger-menu&quot;]/div[@class=&quot;hamburger-menu__lists-wrapper&quot;]/ul[@class=&quot;hamburger-menu__lists-item&quot;]/li[@class=&quot;hamburger-menu__item have-sub-menu&quot;]/div[@class=&quot;hamburger-menu__item sub-item show&quot;]/div[@class=&quot;sub-item-list child list-item-level-2&quot;]/ul[@class=&quot;list-item-wrapper parent list-item-level-3&quot;]/li[@class=&quot;list-item child list-item-level-3&quot;]/a[@class=&quot;sub-item fading&quot;]</value>
+      <webElementGuid>d413512d-8615-475a-87c2-3efe51e84e36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Kesehatan')])[3]</value>
+      <webElementGuid>bca8dff0-6e0d-4d2b-af95-0b8088dea4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perkembangan Otak'])[2]/following::a[1]</value>
+      <webElementGuid>7d4eb836-b97b-4c95-acba-9a86bd281762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imunitas'])[3]/following::a[2]</value>
+      <webElementGuid>c5da0fa9-33d2-47d9-90b2-eea5d70ef73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tumbuh Kembang'])[2]/preceding::a[1]</value>
+      <webElementGuid>0291fe70-3223-4e43-adf2-6521bcc6fa56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrisi'])[3]/preceding::a[2]</value>
+      <webElementGuid>abe2d132-48cb-4aa1-8bb9-10d6daed6d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/artikel?kategori=anak&amp;topik=kesehatan')]</value>
+      <webElementGuid>ff9c9d69-77e3-42ff-a8d7-179934fe821d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a</value>
+      <webElementGuid>affec56b-01a8-46c2-a13a-469c42bc964c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/artikel?kategori=anak&amp;topik=kesehatan' and (text() = 'Kesehatan' or . = 'Kesehatan')]</value>
+      <webElementGuid>02a07190-3f1f-4e2d-80ac-acc7693e2fb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

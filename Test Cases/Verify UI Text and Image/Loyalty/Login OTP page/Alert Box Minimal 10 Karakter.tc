@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alert Box Minimal 10 Karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a9d353f-fdbd-4632-947e-82482a090120</testCaseGuid>
+</TestCaseEntity>

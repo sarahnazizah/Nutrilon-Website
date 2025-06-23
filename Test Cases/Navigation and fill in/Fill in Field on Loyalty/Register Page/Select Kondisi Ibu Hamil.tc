@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Kondisi Ibu Hamil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a5dd259-4ba9-49e1-ad1b-66482f5f938a</testCaseGuid>
+</TestCaseEntity>

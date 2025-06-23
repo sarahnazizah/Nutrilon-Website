@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tap button Masuk</description>
+   <name>Tap button Masuk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c746148b-ed40-4812-aff0-c834836ca757</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BOP Condition Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99b924f3-346d-444c-881a-1144b6af39d1</testCaseGuid>
+</TestCaseEntity>

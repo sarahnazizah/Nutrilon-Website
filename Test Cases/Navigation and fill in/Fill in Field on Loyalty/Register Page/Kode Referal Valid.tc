@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User able to input valid Kode referal</description>
+   <name>Kode Referal Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10b45c49-e287-472a-a3ac-dfd56f951d7a</testCaseGuid>
+</TestCaseEntity>

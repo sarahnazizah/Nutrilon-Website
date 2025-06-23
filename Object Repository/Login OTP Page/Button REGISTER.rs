@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button REGISTER</name>
+   <tag></tag>
+   <elementGuidId>aa630ac3-1632-458f-8bd3-996575294136</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-otp-member-hp-not-found']/div/div/div[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b629c924-4d29-4c61-bca0-300ba78fa4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/membership/register?referrer=https://www.nutrishop.co.id/cart&amp;redirect=</value>
+      <webElementGuid>76b12456-1df8-4a3d-aee7-b0e69bab1792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block</value>
+      <webElementGuid>48ae9d0b-43da-44ec-9d34-3f4dfe82a02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                REGISTER
+                            </value>
+      <webElementGuid>8605e024-d8f9-4f25-9c87-e71a1c18bfdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-otp-member-hp-not-found&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content p-4&quot;]/div[@class=&quot;modal__error-body text-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/a[@class=&quot;btn btn-block&quot;]</value>
+      <webElementGuid>f2f524af-8d50-4093-9bc5-5c16aa5ebfe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-otp-member-hp-not-found']/div/div/div[3]/div/div/a</value>
+      <webElementGuid>63b1a65e-3bd6-4b6c-9165-0b9c88ebb898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'REGISTER')]</value>
+      <webElementGuid>0e8f7e1d-13af-4a65-84b9-87ce5991f2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mama,'])[1]/following::a[1]</value>
+      <webElementGuid>f0717353-2586-4bc6-bb20-ad1579368d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut.'])[1]/following::a[1]</value>
+      <webElementGuid>628424aa-f52c-40e6-80f6-8127cb148176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok, saya mengerti!'])[1]/preceding::a[1]</value>
+      <webElementGuid>12205571-70e7-4630-b0a7-2a403b6ce549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asi terbaik bagi bayi'])[1]/preceding::a[1]</value>
+      <webElementGuid>7ed2c904-5014-4112-b051-e9b58a0e2f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REGISTER']/parent::*</value>
+      <webElementGuid>8a0dec10-cf67-437b-876c-832bfc1d9380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/membership/register?referrer=https://www.nutrishop.co.id/cart&amp;redirect=')]</value>
+      <webElementGuid>c0740f6e-5ade-4f12-889b-eb89f903e6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>5c199cc6-33f9-41b4-a207-046e1d4c4142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/membership/register?referrer=https://www.nutrishop.co.id/cart&amp;redirect=' and (text() = '
+                                REGISTER
+                            ' or . = '
+                                REGISTER
+                            ')]</value>
+      <webElementGuid>d4af0832-6044-4b55-b378-db367cd693ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

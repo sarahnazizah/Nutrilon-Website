@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Masuk</name>
+   <tag></tag>
+   <elementGuidId>eb53d8b6-c176-4fad-a4e0-27f98691b09a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.cta-login-register.text-gothamroundedbold.text-center.text-blue-800.hov-text-blue-700.bg-gold-gradient-1.px-2.py-1.py-md-2.rounded-pill.w-400px.w-sm-135px.shadow.mx-sm-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6a052e45-7319-4fbd-8896-a64818ac88bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d17a84c-ca6d-4b17-a079-67d05f43913f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn cta-login-register text-gothamroundedbold text-center text-blue-800 hov-text-blue-700 bg-gold-gradient-1 px-2 py-1 py-md-2 rounded-pill w-400px w-sm-135px shadow mx-sm-auto</value>
+      <webElementGuid>24b4f7a2-997d-43e7-9feb-5c8c85d88cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location.href='/membership/login';</value>
+      <webElementGuid>e251c09c-1f07-4306-a333-1113ba84a84f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Masuk                    </value>
+      <webElementGuid>59986a63-8885-42c4-a1e2-eb32a7eb97f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-description-home-membership&quot;)/div[@class=&quot;container-fluid pt-4 pb-0&quot;]/div[@class=&quot;row d-flex justify-content-center py-0 py-md-5&quot;]/div[@class=&quot;col-11 col-md-5&quot;]/div[@class=&quot;section-description-home-cta-area d-flex flex-row flex-md-column justify-content-center gap-2 py-0 py-md-3&quot;]/button[@class=&quot;btn cta-login-register text-gothamroundedbold text-center text-blue-800 hov-text-blue-700 bg-gold-gradient-1 px-2 py-1 py-md-2 rounded-pill w-400px w-sm-135px shadow mx-sm-auto&quot;]</value>
+      <webElementGuid>93f3c69b-4aee-4a87-b305-ccd0932b15f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>d4d8f2b7-fcfd-4276-9887-d54a74bdbac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-description-home-membership']/div/div/div[2]/div/button</value>
+      <webElementGuid>ef21bace-2224-4d1e-9e2a-71b228e8f48f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenapa Bergabung di Nutriclub?'])[1]/following::button[1]</value>
+      <webElementGuid>3307a11b-11c1-48cb-b3a8-ef5faa0dfb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[6]</value>
+      <webElementGuid>9a0062f3-de10-40dc-a89b-215823832866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::button[1]</value>
+      <webElementGuid>da8a9f78-26f4-4399-b158-5b6e1f8bd259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuntungan Member Nutriclub'])[1]/preceding::button[2]</value>
+      <webElementGuid>87f9b221-a7a3-45ae-a6e3-a64a2dda6f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>1e6994fa-5e1c-4962-b8c2-2175ca8383cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                        Masuk                    ' or . = '
+                        Masuk                    ')]</value>
+      <webElementGuid>5fd18678-0281-4c6b-8446-b2331ccbc8e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

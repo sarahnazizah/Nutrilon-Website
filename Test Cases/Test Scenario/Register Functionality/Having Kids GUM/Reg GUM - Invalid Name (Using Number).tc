@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg GUM - Invalid Name (Using Number)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9ebcb9d-774b-41f0-bd6c-704033fed166</testCaseGuid>
+</TestCaseEntity>

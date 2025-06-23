@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fill in invalid phone (more than 13)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45fce809-6d17-4263-89c1-d7069a3a899e</testCaseGuid>
+</TestCaseEntity>

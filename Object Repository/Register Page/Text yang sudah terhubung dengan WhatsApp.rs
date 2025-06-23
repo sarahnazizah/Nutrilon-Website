@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text yang sudah terhubung dengan WhatsApp</name>
+   <tag></tag>
+   <elementGuidId>6ebd1b0a-87a9-4a24-a6c3-1d2b4ecbf371</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>small.small-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='membership-register']/div/div/div/form/div/div/div[2]/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>d0e247b1-44d5-4f9e-9db4-d6426064cf72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>small-info</value>
+      <webElementGuid>48284e1a-1e8f-432f-99c9-504603a61efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*yang sudah terhubung dengan WhatsApp</value>
+      <webElementGuid>0e645668-7159-4bac-8b3e-412bce37f300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;membership-register&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;registration_form&quot;]/div[@class=&quot;register__form&quot;]/div[@class=&quot;registration__content&quot;]/div[@class=&quot;content__input&quot;]/small[@class=&quot;small-info&quot;]</value>
+      <webElementGuid>b788e26e-2346-4d27-983f-b2053cf72756</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='membership-register']/div/div/div/form/div/div/div[2]/small</value>
+      <webElementGuid>09601f70-5ad7-4d8c-a9a1-6d23a515137b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Handphone Mama'])[1]/following::small[1]</value>
+      <webElementGuid>2bac2f9a-8c88-46c2-9233-29b7742fd511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap Mama'])[1]/following::small[1]</value>
+      <webElementGuid>a426c71e-0097-4800-8d07-5eff68237e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::small[1]</value>
+      <webElementGuid>441d7d80-4bdd-487b-8224-24c46afa2d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='*yang sudah terhubung dengan WhatsApp']/parent::*</value>
+      <webElementGuid>fae8f4fb-15ab-4704-ba8c-eb0ec078b5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>7f9b1476-4480-4538-a092-db1d9b7da819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = '*yang sudah terhubung dengan WhatsApp' or . = '*yang sudah terhubung dengan WhatsApp')]</value>
+      <webElementGuid>b8030741-2027-4360-a722-e570a9129477</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

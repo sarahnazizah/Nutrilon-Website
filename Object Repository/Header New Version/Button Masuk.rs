@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Masuk</name>
+   <tag></tag>
+   <elementGuidId>85e94d3e-f1cf-425a-be26-e59d412fc8c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.navbar-brand.cta-login-header.header__brand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c109fd52-2b04-43df-9b8f-8d2f8d0196b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/membership/login</value>
+      <webElementGuid>49687d23-9eee-455b-b428-25d4efc92d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-brand cta-login-header header__brand</value>
+      <webElementGuid>ebd71464-1102-454c-b922-7b0febe0cabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Masuk
+                    </value>
+      <webElementGuid>4eb1aa57-c5df-4b26-a59d-7ae60cfc5db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container header header-form&quot;]/div[@id=&quot;navbarNav&quot;]/div[@class=&quot;col d-flex align-items-center justify-content-end&quot;]/a[@class=&quot;navbar-brand cta-login-header header__brand&quot;]</value>
+      <webElementGuid>96e4e083-9353-4d76-8d15-d74aa62d90ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div[2]/a</value>
+      <webElementGuid>db281c99-d97d-41ba-8afe-8ff2b66e8324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Masuk')]</value>
+      <webElementGuid>4be50834-aec8-4cbd-af2e-f50c7d7635ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Struk'])[1]/following::a[1]</value>
+      <webElementGuid>0d370194-a71e-4be5-a5c7-f22dfdaced9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Referral Sahabat Mama'])[1]/following::a[2]</value>
+      <webElementGuid>9e3ee855-3b26-4753-9c9a-d14efceeca3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::a[1]</value>
+      <webElementGuid>1fe88f8a-9205-418c-ba54-73df2b074349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[2]/preceding::a[4]</value>
+      <webElementGuid>c3f071f9-caf1-4442-afba-be0073ad1ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>6c9cb9b8-3e81-4b65-9531-93f491367ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/membership/login')]</value>
+      <webElementGuid>05acd5e8-646e-41ae-a7c3-131715e7213b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>96402d7e-dae7-4412-b3c5-e92f328c4346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/membership/login' and (text() = '
+                        Masuk
+                    ' or . = '
+                        Masuk
+                    ')]</value>
+      <webElementGuid>1e53201b-f9e0-48f0-a610-7c171a6c04e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

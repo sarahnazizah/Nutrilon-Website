@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar Ajak Teman Section</name>
+   <tag></tag>
+   <elementGuidId>dee4e3c5-847b-4e81-b856-6dac6c003601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.cta-login-register.cta-login.btn.mx-auto.text-center.text-blue-800.hov-text-blue-700.bg-gold-gradient-1.p-2.mx-auto.rounded-pill.w-450px.w-sm-230px.shadow.text-gothamroundedbold.text-20px.text-sm-14px</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a0c886a-c7f6-49a4-a81d-68ec7318bc3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7314b1c-f622-4ac9-87e3-426487c21ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cta-login-register cta-login btn mx-auto text-center text-blue-800 hov-text-blue-700 bg-gold-gradient-1 p-2 mx-auto rounded-pill w-450px w-sm-230px shadow text-gothamroundedbold text-20px text-sm-14px</value>
+      <webElementGuid>4486d86c-6221-41d7-93c4-69e86cd36773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>9458ceec-d751-48bb-b6cb-465dc33bf6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location.href='/account/register';</value>
+      <webElementGuid>9990e4d5-151c-4242-81f1-1bfe8e6f9ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Daftar              </value>
+      <webElementGuid>52925218-ae8d-41d0-902d-2f80c27e7c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;encourage-register&quot;)/div[@class=&quot;container-fluid bg-white py-4&quot;]/div[@class=&quot;row d-flex justify-content-center&quot;]/div[@class=&quot;col col-md-10 bg-blue-100 py-4 px-3 p-md-5 rounded-3 rounded-sm-0 d-md-flex justify-content-md-center gap-2&quot;]/div[@class=&quot;encourage-register-cta-wrapper w-40 w-sm-90i mx-auto&quot;]/div[@class=&quot;pos-relative top-50 top-sm-unset&quot;]/button[@class=&quot;cta-login-register cta-login btn mx-auto text-center text-blue-800 hov-text-blue-700 bg-gold-gradient-1 p-2 mx-auto rounded-pill w-450px w-sm-230px shadow text-gothamroundedbold text-20px text-sm-14px&quot;]</value>
+      <webElementGuid>e701c00e-05fd-484e-964b-e2a9880a2cfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>aa3ba680-bec2-4fa9-9881-ad770afda707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='encourage-register']/div/div/div/div[2]/div/button</value>
+      <webElementGuid>f4131032-3b71-4a3d-a929-0566532de871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undang Banyak TemanDapatkan Lebih Banyak Poin'])[1]/following::button[1]</value>
+      <webElementGuid>6818069b-72fb-43d8-9b62-07248d17b4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/following::button[1]</value>
+      <webElementGuid>706eb755-a403-4d44-8ed9-e468ae99d0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poin yang Didapat dari Setiap Kemasan'])[1]/preceding::button[1]</value>
+      <webElementGuid>ad6c92e2-f929-4348-a038-49c3ab674635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok, saya mengerti!'])[1]/preceding::button[2]</value>
+      <webElementGuid>e54b83d5-5094-4dd6-8e4a-1a86cdcae42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/section/div/div/div/div[2]/div/button</value>
+      <webElementGuid>f3bdcdf7-d418-4153-8fb1-09176511d1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Daftar' and (text() = '
+                Daftar              ' or . = '
+                Daftar              ')]</value>
+      <webElementGuid>a846b0fd-a72e-450e-bd19-c6257c9c4e85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
