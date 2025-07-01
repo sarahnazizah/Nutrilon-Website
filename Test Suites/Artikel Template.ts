@@ -22,7 +22,7 @@
          <masked>false</masked>
          <name>url</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/Test Scenario/Article Structure Skimming/Detail Log</testCaseId>
+      <testCaseId>Test Cases/Example testing</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>810ff68c-fea3-481b-9686-03e8fecfcd13</id>
@@ -33,11 +33,5 @@
          <testDataId>Data Files/Article Url</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>810ff68c-fea3-481b-9686-03e8fecfcd13</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>loc</value>
-         <variableId>505c410b-0c6e-4d88-a207-5ef759fa95a2</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

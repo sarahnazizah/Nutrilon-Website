@@ -16,23 +16,21 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.webui.common.WebUiCommonHelper as Helper
-import org.openqa.selenium.WebElement as WebElement
-import com.kms.katalon.core.webui.driver.DriverFactory
-import com.kms.katalon.core.util.KeywordUtil
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.webui.common.WebUiCommonHelper as Helper
-import org.openqa.selenium.WebElement as WebElement
-import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import java.awt.image.BufferedImage as BufferedImage
 import javax.imageio.ImageIO as ImageIO
 import java.awt.Color as Color
+import org.openqa.selenium.WebElement
 
-// ---------- ①  Navigasi ----------
-WebUI.comment("🔗 Periksa: " + url)
-WebUI.navigateToUrl(url)
-WebUI.waitForPageLoad(15)
+// 1. Buka halaman web
+// 2. Ambil screenshot dari seluruh halaman
+String screenshotPath = 'C:\\Users\\FLEX 5\\git\\Nutrilon-Website\\Visual Baseline\\Artikel Template\\Desktop - Article Page.png'
+
+WebUI.takeScreenshot(screenshotPath)
+
+// 3. Load gambar referensi (dari Figma) dan gambar hasil test
+BufferedImage expected = ImageIO.read(new File('Visual Baseline/Artikel Template/Desktop - Article Page.png'))
+
+BufferedImage actual = ImageIO.read(new File(screenshotPath))
 
 // ---------- ②  Deteksi error page ----------
 boolean is403 = WebUI.verifyTextPresent('403', false, FailureHandling.OPTIONAL)
@@ -82,3 +80,39 @@ if (isError) {
 
 	WebUI.comment('✅ Struktur halaman valid')
 }
+
+// 4. Bandingkan dimensi gambar
+//if ((expected.width != actual.width) || (expected.height != actual.height)) {
+//    WebUI.comment('Dimensi gambar tidak sama!')
+
+//    WebUI.verifyMatch('Mismatch', 'Match', false)
+//}
+
+// 5. Bandingkan isi pixel demi pixel
+//boolean match = true
+
+//int width = expected.width
+
+//int height = expected.height
+
+//for (int y = 0; y < height; y++) {
+//    for (int x = 0; x < width; x++) {
+//        if (expected.getRGB(x, y) != actual.getRGB(x, y)) {
+//            match = false
+
+//            WebUI.comment(((('Perbedaan ditemukan di pixel: (' + x) + ', ') + y) + ')')
+
+//            break
+//        }
+//    }
+    
+//    if (!(match)) {
+//        break
+//    }
+//}
+
+// 6. Verifikasi hasil
+//WebUI.verifyEqual(match, true, FailureHandling.STOP_ON_FAILURE)
+
+//WebUI.closeBrowser()
+
