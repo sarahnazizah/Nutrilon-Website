@@ -30,7 +30,8 @@ import javax.imageio.ImageIO as ImageIO
 import java.awt.Color as Color
 
 // ---------- ①  Navigasi ----------
-WebUI.comment("🔗 Periksa: " + url)
+WebUI.comment("🔗Periksa: " + url)
+WebUI.setViewPortSize(1080, 1024)
 WebUI.navigateToUrl(url)
 WebUI.waitForPageLoad(15)
 
@@ -46,7 +47,7 @@ if (isError) {
 	KeywordUtil.markWarning("⚠️ Halaman error (403 / 404 / 504) ditemukan pada: $url")
 } else {
 	// ---------- ③  Screenshot visual checkpoint (opsional)
-	WebUI.takeFullPageScreenshotAsCheckpoint('Desktop - Article Page')
+	WebUI.takeFullPageScreenshotAsCheckpoint('Desktop - Article Page (1)')
 
 	// ---------- ④  Verifikasi struktur section ----------
 	List<String> sections = [
