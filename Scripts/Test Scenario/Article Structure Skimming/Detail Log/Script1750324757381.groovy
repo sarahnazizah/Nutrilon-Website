@@ -46,7 +46,7 @@ if (isError) {
 	KeywordUtil.markWarning("⚠️ Halaman error (403 / 404 / 504) ditemukan pada: $url")
 } else {
 	// ---------- ③  Screenshot visual checkpoint (opsional)
-	WebUI.takeFullPageScreenshotAsCheckpoint('Artikel Detail Template')
+	WebUI.takeFullPageScreenshotAsCheckpoint('Desktop - Article Page')
 
 	// ---------- ④  Verifikasi struktur section ----------
 	List<String> sections = [
