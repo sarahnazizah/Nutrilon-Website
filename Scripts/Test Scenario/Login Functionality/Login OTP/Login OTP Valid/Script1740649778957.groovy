@@ -21,19 +21,19 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry to login page/Entry to Login from header'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/Entry to login page/Entry to Login from header'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Global/Tap Aktifkan Semua Cookie'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Global/Tap Aktifkan Semua Cookie'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login page/Tap Masuk via otp'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login page/Tap Masuk via otp'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login OTP page/Fill in valid phone number'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login OTP page/Fill in valid phone number'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login OTP/Tap button Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login OTP/Tap button Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/OTP page/UI and Text on Login OTP page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/OTP page/UI and Text on Login OTP page'), [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -17,33 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry to register page/Entry to Daftar from Header'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/Entry to register page/Entry to Daftar from Header'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Global/Tap Aktifkan Semua Cookie'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Global/Tap Aktifkan Semua Cookie'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Fill in Nama Valid'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Fill in Nama Valid'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Nomor HP - More than 13 character'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Nomor HP - More than 13 character'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Fill in password Valid'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Fill in password Valid'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Kondisi Tidak Hamil'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Kondisi Tidak Hamil'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/BOP Condition Valid'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/BOP Condition Valid'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Register Page/Checklist consent'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Register Page/Checklist consent'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Register Page/Tap Kirim Kode OTP'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Register Page/Tap Kirim Kode OTP'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/Register page/Alert phone number more than 13'), [:], 
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/Register page/Alert phone number more than 13'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 

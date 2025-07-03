@@ -19,19 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry to login page/Entry to Login from header'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/Entry to login page/Entry to Login from header'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login Password Page/Fill in phone number valid'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login Password Page/Fill in phone number valid'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login Password Page/Fill in invalid password'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login Password Page/Fill in invalid password'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login page/Tap button Masuk'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login page/Tap button Masuk'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/Login Page/Alert (invalid credential)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/Login Page/Alert (invalid credential)'), [:], FailureHandling.STOP_ON_FAILURE)
 

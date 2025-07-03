@@ -17,18 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Global/Tap Aktifkan Semua Cookie'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Global/Tap Aktifkan Semua Cookie'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Register Page/Tap Masuk Disini'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Register Page/Tap Masuk Disini'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login Password Page/Fill in phone number valid'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login Password Page/Fill in phone number valid'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login Password Page/Fill in password Valid'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login Password Page/Fill in password Valid'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login page/Tap button Masuk'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login page/Tap button Masuk'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 

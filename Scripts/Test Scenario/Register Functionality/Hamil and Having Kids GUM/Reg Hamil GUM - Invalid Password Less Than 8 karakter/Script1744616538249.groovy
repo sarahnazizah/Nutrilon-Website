@@ -21,33 +21,33 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry to register page/Entry to Daftar from Header'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/Entry to register page/Entry to Daftar from Header'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Global/Tap Aktifkan Semua Cookie'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Global/Tap Aktifkan Semua Cookie'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Fill in Nama Valid'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Fill in Nama Valid'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Fill in field phone number valid'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Fill in field phone number valid'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Password - Less than 8'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Password - Less than 8'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/Register page/Alert Password Tidak Sesuai - Kurang dari 8 karakter'), 
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/Register page/Alert Password Tidak Sesuai - Kurang dari 8 karakter'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/Select Kondisi Ibu Hamil'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/Select Kondisi Ibu Hamil'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Register Page/GUM Condition Valid'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Register Page/GUM Condition Valid'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Register Page/Checklist consent'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Register Page/Checklist consent'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Register Page/Tap Kirim Kode OTP'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Register Page/Tap Kirim Kode OTP'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 

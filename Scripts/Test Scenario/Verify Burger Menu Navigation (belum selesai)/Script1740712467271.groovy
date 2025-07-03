@@ -19,12 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry from Burger Menu/Tap Burger Menu'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/EF Burger Menu/Tap Burger Menu'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry to register page/Burger Menu Membership menu'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/Entry to register page/Burger Menu Membership menu'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry from Burger Menu/Tap Burger Menu'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/EF Burger Menu/Tap Burger Menu'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -21,20 +21,20 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry to login page/Entry to Login from header'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/Entry to login page/Entry to Login from header'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login page/Tap Masuk via otp'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login page/Tap Masuk via otp'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/Login OTP page/UI and Text on Login OTP page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/Login OTP page/UI and Text on Login OTP page'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login OTP page/Fill in invalid phone (more than 13)'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login OTP page/Fill in invalid phone (more than 13)'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/Login OTP page/Alert Field More than 13 character'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/Login OTP page/Alert Field More than 13 character'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login OTP/Tap button Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login OTP/Tap button Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/Login OTP page/Alert Box Maksimal 13 Karakter'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/Login OTP page/Alert Box Maksimal 13 Karakter'), [:], FailureHandling.STOP_ON_FAILURE)
 

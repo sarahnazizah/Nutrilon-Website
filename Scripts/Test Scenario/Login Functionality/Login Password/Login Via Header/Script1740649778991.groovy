@@ -19,28 +19,28 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.URL)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Entry Point/Entry to login page/Entry to Login from header'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/EF/Entry to login page/Entry to Login from header'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Global/Tap Aktifkan Semua Cookie'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Global/Tap Aktifkan Semua Cookie'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login Password Page/Fill in phone number valid'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login Password Page/Fill in phone number valid'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Fill in Field on Loyalty/Login Password Page/Fill in password Valid'), 
+WebUI.callTestCase(findTestCase('NavFill/Fill/Login Password Page/Fill in password Valid'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login page/Tap Eye password'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login page/Tap Eye password'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Login page/Tap button Masuk'), [:], 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Login page/Tap button Masuk'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)
 
-WebUI.callTestCase(findTestCase('Verify UI Text and Image/Loyalty/Popup/Login/Verify Text Login Berhasil'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('UI Verif/Loyalty/Popup/Login/Verify Text Login Berhasil'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Navigation and fill in/Tap button and or hyperlink/Popup/Popup Loyalty/Tap button OK popup Login'), 
+WebUI.callTestCase(findTestCase('NavFill/Tap hyperlink/Popup/Popup Loyalty/Tap button OK popup Login'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
