@@ -18,68 +18,62 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.webui.common.WebUiCommonHelper as Helper
 import org.openqa.selenium.WebElement as WebElement
-import com.kms.katalon.core.webui.driver.DriverFactory
-import com.kms.katalon.core.util.KeywordUtil
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.webui.common.WebUiCommonHelper as Helper
-import org.openqa.selenium.WebElement as WebElement
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import java.awt.image.BufferedImage as BufferedImage
 import javax.imageio.ImageIO as ImageIO
 import java.awt.Color as Color
 
 // ---------- ①  Navigasi ----------
-WebUI.comment("🔗Periksa: " + url)
+WebUI.comment('🔗Periksa: ' + url)
+
 WebUI.setViewPortSize(1080, 1024)
+
 WebUI.navigateToUrl(url)
+
 WebUI.waitForPageLoad(15)
+
+WebUI.delay(5)
 
 // ---------- ②  Deteksi error page ----------
 boolean is403 = WebUI.verifyTextPresent('403', false, FailureHandling.OPTIONAL)
+
 boolean is404 = WebUI.verifyTextPresent('404', false, FailureHandling.OPTIONAL)
+
 boolean is504 = WebUI.verifyTextPresent('504', false, FailureHandling.OPTIONAL)
 
-boolean isError = is403 || is404 || is504
+boolean isError = (is403 || is404) || is504
 
 if (isError) {
-	WebUI.takeScreenshot("Screenshots/Error_${System.currentTimeMillis()}.png")
-	KeywordUtil.markWarning("⚠️ Halaman error (403 / 404 / 504) ditemukan pada: $url")
+    WebUI.takeScreenshot("Screenshots/Error_$System.currentTimeMillis().png")
+
+    KeywordUtil.markWarning("⚠️ Halaman error (403 / 404 / 504) ditemukan pada: $url") // ---------- ③  Screenshot visual checkpoint (opsional)
+    // ---------- ④  Verifikasi struktur section ----------
+    //	for (int i = 0; i < sections.size() - 1; i++) {
+    //		int y1 = elMap[sections[i]].location.y
+    //		int y2 = elMap[sections[i + 1]].location.y
+    //		assert y1 < y2 : "${sections[i]} harus di atas ${sections[i + 1]}, tapi urutannya salah!"
+    //	}
 } else {
-	// ---------- ③  Screenshot visual checkpoint (opsional)
-	WebUI.takeFullPageScreenshotAsCheckpoint('Desktop - Article Page (1)')
+    WebUI.takeFullPageScreenshotAsCheckpoint('Desktop - Article Page (1)')
 
-	// ---------- ④  Verifikasi struktur section ----------
-	List<String> sections = [
-		'Banner Section',
-		'Breadcrumb Section',
-		'Button Imunitas',
-		'Title Artikel Div',
-		'EEAT Section',
-		'button_Pembahasan dalam artikel',
-		'Artikel Content Section',
-		'Section Text Pilih Artikel Sesuai Kebutuhan Mama',
-		'Section Button Tag',
-		'Section Button Topic',
-		'Section Temukan Topic',
-		'Section Temukan Topic dalam container',
-		'Section Artikel Terkait'
-	]
+    List<String> sections = ['Banner Section', 'Breadcrumb Section', 'Button Imunitas', 'Title Artikel Div', 'EEAT Section'
+        , 'button_Pembahasan dalam artikel', 'Artikel Content Section', 'Section Text Pilih Artikel Sesuai Kebutuhan Mama'
+        , 'Section Button Tag', 'Section Button Topic', 'Section Temukan Topic', 'Section Temukan Topic dalam container'
+        , 'Section Artikel Terkait']
 
-	Map<String, WebElement> elMap = [:]
+    Map<String, WebElement> elMap = [:]
 
-	for (String s : sections) {
-		TestObject to = findTestObject("Object Repository/Artikel Template/${s}")
-		WebUI.waitForElementVisible(to, 5)
-		WebUI.verifyElementVisible(to)
-		elMap[s] = Helper.findWebElement(to, 10)
-	}
+    for (String s : sections) {
+        TestObject to = findTestObject("Object Repository/Artikel Template/$s")
 
-//	for (int i = 0; i < sections.size() - 1; i++) {
-//		int y1 = elMap[sections[i]].location.y
-//		int y2 = elMap[sections[i + 1]].location.y
-//		assert y1 < y2 : "${sections[i]} harus di atas ${sections[i + 1]}, tapi urutannya salah!"
-//	}
+        WebUI.waitForElementVisible(to, 5)
 
-	WebUI.comment('✅ Struktur halaman valid')
+        WebUI.verifyElementVisible(to)
+
+        (elMap[s]) = Helper.findWebElement(to, 10)
+    }
+    
+    WebUI.comment('✅ Struktur halaman valid')
 }
+
