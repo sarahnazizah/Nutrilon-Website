@@ -28,7 +28,7 @@
          <id>32dcbebe-f078-49f8-88bc-f17f261e539f</id>
          <iterationEntity>
             <iterationType>RANGE</iterationType>
-            <value>2-2</value>
+            <value>1-1</value>
          </iterationEntity>
          <testDataId>Data Files/Article Url</testDataId>
       </testDataLink>
