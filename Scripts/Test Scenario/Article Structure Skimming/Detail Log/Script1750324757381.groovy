@@ -32,7 +32,8 @@ WebUI.setViewPortSize(1080, 1024)
 WebUI.navigateToUrl(url)
 
 WebUI.waitForPageLoad(15)
-
+WebUI.executeJavaScript("document.body.style.zoom='100%'", null)
+WebUI.executeJavaScript("window.scrollTo(0, 0)",null)
 WebUI.delay(5)
 
 // ---------- ②  Deteksi error page ----------
